@@ -3,7 +3,10 @@ import urllib.request
 import html.parser
 from collections import defaultdict
 
-filter = {"the", "oh"}
+filter = {"the", "oh", "it", "a", "whoa", "and"}
+songs_doc = "songs.txt"
+output_doc = "frequency.txt"
+base_url = "https://www.azlyrics.com/lyrics"
 
 def get_html(url: str) -> str:
     response = urllib.request.urlopen(url)
@@ -43,14 +46,14 @@ def write_to_file(file_name: str, data: str) -> None:
         file.write(data)
 
 def get_az_url(song_info: str) -> str:
-    base = "https://www.azlyrics.com/lyrics"
     info_list = song_info.split(":")
     artist, song = alpha_lower(info_list[0]), alpha_lower(info_list[1])
-    return "{}/{}/{}.html".format(base, artist, song)
+    return "{}/{}/{}.html".format(base_url, artist, song)
 
 def main():
     lyrics_dict = defaultdict(int)
-    input_file = open("songs.txt")
+    input_file = open(songs_doc)
+    print("Adding lyrics...")
     for line in input_file:
         song_info = line.strip()
         try:
@@ -58,7 +61,7 @@ def main():
         except(urllib.error.HTTPError):
             print("URL not available: {}".format(song_info))
     input_file.close()
-    write_to_file("frequency.txt", dict_to_str(lyrics_dict))
+    write_to_file(output_doc, dict_to_str(lyrics_dict))
 
 
 if __name__ == "__main__":

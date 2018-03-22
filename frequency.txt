@@ -1,16 +1,12 @@
 my: 33
 to: 31
-it: 28
 up: 28
 i: 23
-a: 23
 in: 21
 you: 20
 we: 19
 im: 19
-whoa: 19
 with: 17
-and: 16
 me: 16
 dont: 14
 be: 13
