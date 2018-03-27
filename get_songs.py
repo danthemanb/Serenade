@@ -1,20 +1,24 @@
 from bs4 import BeautifulSoup
 from soup_lyrics import get_html
 
-base_url = "http://billboardtop100of.com/"
+base_url = "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of"
 
 def get_url(year: int) -> str:
-    return "{}{}-2/".format(base_url, year)
+    return "{}_{}".format(base_url, year)
 
 def add_songs_from_year(song_list: [(str, str)], year: int, song_amount: int) -> [(str, str)]:
     html_doc = get_html(get_url(year))
     soup = BeautifulSoup(html_doc, "html.parser")
-    songs = soup.tbody.find_all("tr")
+    songs = soup.table.find_all("tr")[1:]
     for child in songs:
-        if int(child.contents[1].string) <= song_amount:
-            song_list.append("{}: {}".format(child.contents[3].string, child.contents[5].string))
-        else:
-            break
+        info = child.contents
+        title_info = info[3].contents
+        if len(title_info) > 1:
+            if int(info[1].string) <= song_amount:
+                song_list.append("{}: {}".format(title_info[1].string, info[5].string))
+            else:
+                break
+        
     return song_list
 
 def add_songs_in_range(song_list: [(str, str)], start: int, end: int, song_amount: int) -> [(str, str)]:
@@ -25,14 +29,17 @@ def add_songs_in_range(song_list: [(str, str)], start: int, end: int, song_amoun
 def write_list_to_file(file_name: str, to_write: list):
     file = open(file_name, "w")
     for item in to_write:
-        file.write(item)
-        file.write("\n")
+        try:
+            file.write(item)
+            file.write("\n")
+        except UnicodeEncodeError:
+            print("Can't write character")
     file.close()
 
 
 def main():
     print("Fetching songs...")
-    song_list = add_songs_in_range([], 1963, 2012, 20)
+    song_list = add_songs_in_range([], 1963, 2017, 100)
     print("Writing to file...")
     write_list_to_file("songs.txt", song_list)
     print("Done")
