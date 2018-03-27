@@ -13,6 +13,7 @@ Puff, the Magic Dragon: Peter, Paul & Mary
 Blowin' in the Wind: Peter, Paul & Mary
 Wipe Out: The Surfaris
 I Love You Because: Al Martino
+Wild Weekend: The Rebels
 You're the Reason I'm Living: Bobby Darin
 Walk Like a Man: The Four Seasons
 Mockingbird: Inez & Charlie Foxx
@@ -32,12 +33,14 @@ Ruby Baby: Dion
 Our Day Will Come: Ruby & the Romantics
 Hello Stranger: Barbara Lewis
 Be My Baby: The Ronettes
+South Street: The Orlons
 Days of Wine and Roses: Henry Mancini
+The Monkey Time: Major Lance
 Candy Girl: The Four Seasons
 Sugar Shack: The Fireballs
 Still: Bill Anderson
 Blue on Blue: Bobby Vinton
-Cry Baby: None
+Cry Baby: Garnet Mimms
 Two Faces Have I: Lou Christie
 Busted: Ray Charles
 Da Doo Ron Ron: The Crystals
@@ -53,11 +56,14 @@ I Wanna Be Around: Tony Bennett
 You've Really Got a Hold on Me: The Miracles
 Sally Go 'Round the Roses: The Jaynetts
 (You're the) Devil in Disguise: Elvis Presley
+Those Lazy-Hazy-Crazy Days of Summer: Nat King Cole
 Baby Workout: Jackie Wilson
 Pride and Joy: Marvin Gaye
 Deep Purple: Nino Tempo & April Stevens
 From a Jack to a King: Ned Miller
 Up on the Roof: The Drifters
+What Will My Mary Say: Johnny Mathis
+Mama Didn't Lie: Jan Bradley
 The Night Has a Thousand Eyes: Bobby Vee
 Don't Say Nothin' Bad (About My Baby): The Cookies
 Ring of Fire: Johnny Cash
@@ -70,22 +76,27 @@ Washington Square: The Village Stompers
 Donna the Prima Donna: Dion
 That Sunday, That Summer: Nat King Cole
 Another Saturday Night: Sam Cooke
+Painted, Tainted Rose: Al Martino
 Go Away Little Girl: Steve Lawrence
 Take These Chains from My Heart: Ray Charles
 Talk to Me: Sunny & the Sunglows
 Come and Get These Memories: Martha and the Vandellas
+Do the Bird: Dee Dee Sharp
 It's All Right: The Impressions
 Shut Down: The Beach Boys
 One Fine Day: The Chiffons
 Little Town Flirt: Del Shannon
 Fly Me to the Moon Bossa Nova: Joe Harnell
 The Reverend Mr. Black: The Kingston Trio
+Hot Pastrami: The Dartells
 Martian Hop: The Ran-Dells
 Wonderful! Wonderful!: The Tymes
 Abilene: George Hamilton IV
 Part Time Love: Little Johnny Taylor
 Maria Elena: Los Indios Tabajaras
 Detroit City: Bobby Bare
+Twenty Miles: Chubby Checker
+Green, Green: The New Christy Minstrels
 Hey Girl: Freddie Scott
 I Want to Hold Your Hand: The Beatles
 She Loves You: The Beatles
@@ -104,7 +115,7 @@ Love Me Do: The Beatles
 Do Wah Diddy Diddy: Manfred Mann
 Please Please Me: The Beatles
 Dancing in the Street: Martha and the Vandellas
-Little Children: None
+Little Children: Billy J. Kramer
 Love Me with All Your Heart (Cuando Calienta El Sol): The Ray Charles Singers
 Under the Boardwalk: The Drifters
 Chapel of Love: The Dixie Cups
@@ -120,7 +131,7 @@ A World Without Love: Peter and Gordon
 Have I the Right?: The Honeycombs
 Don't Let the Rain Come Down (Crooked Little Man): The Serendipity Singers
 Baby Love: The Supremes
-Let It Be Me: None
+Let It Be Me: Betty Everett
 Wishin' and Hopin': Dusty Springfield
 You Don't Own Me: Lesley Gore
 Walk On By: Dionne Warwick
@@ -128,6 +139,7 @@ The House of the Rising Sun: The Animals
 G.T.O.: Ronny & the Daytonas
 Twist and Shout: The Beatles
 Memphis: Johnny Rivers
+White On White: Danny Williams
 Hey Little Cobra: The Rip Chords
 The Shoop Shoop Song (It's in His Kiss): Betty Everett
 Bits and Pieces: The Dave Clark Five
@@ -136,9 +148,10 @@ Um, Um, Um, Um, Um, Um: Major Lance
 The Little Old Lady from Pasadena: Jan and Dean
 Don't Let the Sun Catch You Crying: Gerry and the Pacemakers
 A Summer Song: Chad & Jeremy
-The Girl from Ipanema: None
+The Girl from Ipanema: Stan Getz
 Can't Buy Me Love: The Beatles
 Remember (Walking in the Sand): The Shangri-Las
+C'mon and Swim: Bobby Freeman
 Do You Want to Know a Secret: The Beatles
 Keep On Pushing: The Impressions
 Baby I Need Your Loving: The Four Tops
@@ -151,17 +164,22 @@ See the Funny Little Clown: Bobby Goldsboro
 Because: The Dave Clark Five
 (Just Like) Romeo and Juliet: The Reflections
 For You: Rick Nelson
+Today: The New Christy Minstrels
 Can't You See That She's Mine: The Dave Clark Five
 Leader of the Pack: The Shangri-Las
 Funny How Time Slips Away: Joe Hinton
 The Way You Do the Things You Do: The Temptations
 Anyone Who Had a Heart: Dionne Warwick
+I Love You More and More Every Day: Al Martino
 It's Over: Roy Orbison
 Ronnie: The Four Seasons
 Surfin' Bird: The Trashmen
 What Kind of Fool (Do You Think I Am): The Tams
 The Door Is Still Open to My Heart: Dean Martin
 You Really Got Me: The Kinks
+The Shelter of Your Arms: Sammy Davis Jr.
+I'm So Proud: The Impressions
+I Wanna Love Him So Bad: The Jelly Beans
 Dang Me: Roger Miller
 Cotton Candy: Al Hirt
 (You Don't Know) How Glad I Am: Nancy Wilson
@@ -172,9 +190,11 @@ How Do You Do It?: Gerry and the Pacemakers
 Walk, Don't Run '64: The Ventures
 Do You Love Me: The Dave Clark Five
 Shangri-La: Robert Maxwell
+Haunted House: Jumpin' Gene Simmons
+Steal Away: Jimmy Hughes
 I Saw Her Standing There: The Beatles
 A Fool Never Learns: Andy Williams
-Bad to Me: None
+Bad to Me: Billy J. Kramer
 There! I've Said It Again: Bobby Vinton
 Louie Louie: The Kingsmen
 Needles and Pins: The Searchers
@@ -211,11 +231,12 @@ Hang On Sloopy: The McCoys
 Ticket to Ride: The Beatles
 Red Roses for a Blue Lady: Bert Kaempfert
 Papa's Got a Brand New Bag: James Brown
-Game of Love: None
+Game of Love: Wayne Fontana
 The Name Game: Shirley Ellis
 I Know a Place: Petula Clark
 Back in My Arms Again: The Supremes
 Baby I'm Yours: Barbara Lewis
+The Jolly Green Giant: The Kingsmen
 Hush, Hush, Sweet Charlotte: Patti Page
 Like a Rolling Stone: Bob Dylan
 I'm Telling You Now: Freddie and the Dreamers
@@ -247,11 +268,13 @@ Wonderful World: Herman's Hermits
 Nowhere to Run: Martha and the Vandellas
 Heart Full of Soul: The Yardbirds
 Love Potion No. 9: The Searchers
+Laurie (Strange Things Happen): Dickey Lee
 Baby Don't Go: Sonny & Cher
 It Ain't Me Babe: The Turtles
 Tell Her No: The Zombies
 I Go to Pieces: Peter and Gordon
 Red Roses for a Blue Lady: Vic Dana
+Don't Just Stand There: Patty Duke
 The Tracks of My Tears: The Miracles
 Too Many Rivers: Brenda Lee
 I Like It Like That: The Dave Clark Five
@@ -271,6 +294,7 @@ Ooo Baby Baby: The Miracles
 Laugh at Me: Sonny
 Treat Her Right: Roy Head
 The Race Is On: Jack Jones
+I'm a Fool: Dino, Desi & Billy
 The Boy from New York City: The Ad Libs
 Keep Searchin' (We'll Follow the Sun): Del Shannon
 How Sweet It Is (To Be Loved by You): Marvin Gaye
@@ -310,6 +334,7 @@ Good Vibrations: The Beach Boys
 A Groovy Kind of Love: The Mindbenders
 You Don't Have To Say You Love Me: Dusty Springfield
 Cool Jerk: The Capitols
+Born a Woman: Sandy Posey
 Red Rubber Ball: The Cyrkle
 B-A-B-Y: Carla Thomas
 Walk Away Renée: The Left Banke
@@ -379,7 +404,7 @@ Ode to Billie Joe: Bobbie Gentry
 Windy: The Association
 I'm a Believer: The Monkees
 Light My Fire: The Doors
-Somethin' Stupid: None
+Somethin' Stupid: Frank
 Happy Together: The Turtles
 Groovin': The Young Rascals
 Can't Take My Eyes off You: Frankie Valli
@@ -404,7 +429,7 @@ Gimme Little Sign: Brenton Wood
 The Happening: The Supremes
 All You Need Is Love: The Beatles
 Release Me: Engelbert Humperdinck
-Your Precious Love: None
+Your Precious Love: Marvin Gaye
 Somebody to Love: Jefferson Airplane
 Get on Up: The Esquires
 Brown Eyed Girl: Van Morrison
@@ -426,6 +451,7 @@ There's a Kind of Hush: Herman's Hermits
 Mercy, Mercy, Mercy: The Buckinghams
 This Is My Song: Petula Clark
 (Your Love Keeps Lifting Me) Higher and Higher: Jackie Wilson
+I've Been Lonely Too Long: The Young Rascals
 Penny Lane: The Beatles
 You're My Everything: The Temptations
 Georgy Girl: The Seekers
@@ -442,6 +468,7 @@ Soul Finger: The Bar-Kays
 Gimme Some Lovin': The Spencer Davis Group
 Let It Out (Let It All Hang Out): The Hombres
 Let's Live for Today: The Grass Roots
+Close Your Eyes: Peaches & Herb
 Groovin': Booker T & the M.G.'s
 Funky Broadway: Wilson Pickett
 Pleasant Valley Sunday: The Monkees
@@ -457,7 +484,8 @@ The Beat Goes On: Sonny & Cher
 Snoopy Vs. The Red Baron: The Royal Guardsmen
 Society's Child: Janis Ian
 Girl, You'll Be a Woman Soon: Neil Diamond
-Ain't No Mountain High Enough: None
+Ain't No Mountain High Enough: Marvin Gaye
+I Take It Back: Sandy Posey
 Here Comes My Baby: The Tremeloes
 Everlasting Love: Robert Knight
 I Dig Rock and Roll Music: Peter, Paul and Mary
@@ -469,6 +497,7 @@ Mirage: Tommy James and the Shondells
 Green, Green Grass of Home: Tom Jones
 I Can See for Miles: The Who
 Don't Sleep in the Subway: Petula Clark
+Thank the Lord for the Night Time: Neil Diamond
 Hey Jude: The Beatles
 Love is Blue: Paul Mauriat
 Honey: Bobby Goldsboro
@@ -505,11 +534,14 @@ Simon Says: 1910 Fruitgum Company
 Lady Willpower: Gary Puckett & The Union Gap
 A Beautiful Morning: The Rascals
 The Look of Love: Sérgio Mendes
+Hold Me Tight: Johnny Nash
 Yummy Yummy Yummy: Ohio Express
 Fire: The Crazy World of Arthur Brown
 Love Is All Around: The Troggs
+Playboy: Gene & Debbe
 (Theme from) Valley of the Dolls: Dionne Warwick
 Classical Gas: Mason Williams
+Slip Away: Clarence Carter
 Girl Watcher: The O'Kaysions
 (Sweet Sweet Baby) Since You've Been Gone: Aretha Franklin
 Green Tambourine: The Lemon Pipers
@@ -519,9 +551,10 @@ Jumpin' Jack Flash: The Rolling Stones
 MacArthur Park: Richard Harris
 Light My Fire: José Feliciano
 I Love You: People!
+Take Time to Know Her: Percy Sledge
 Pictures of Matchstick Men: Status Quo
 Summertime Blues: Blue Cheer
-Ain't Nothing Like the Real Thing: None
+Ain't Nothing Like the Real Thing: Marvin Gaye
 I Got the Feelin': James Brown
 I've Gotta Get a Message to You: The Bee Gees
 Lady Madonna: The Beatles
@@ -546,10 +579,11 @@ Revolution: The Beatles
 Woman, Woman: Gary Puckett & The Union Gap
 Elenore: The Turtles
 White Room: Cream
-You're All I Need to Get By: None
+You're All I Need to Get By: Marvin Gaye
 Baby, Now That I've Found You: The Foundations
 Sweet Inspiration: The Sweet Inspirations
 If You Can Want: Smokey Robinson and the Miracles
+Cab Driver: The Mills Brothers
 Time Has Come Today: The Chambers Brothers
 Do You Know the Way to San Jose: Dionne Warwick
 Scarborough Fair: Simon & Garfunkel
@@ -563,6 +597,7 @@ Piece of My Heart: Big Brother and the Holding Company
 Suzie Q.: Creedence Clearwater Revival
 Bend Me, Shape Me: The American Breed
 Hey, Western Union Man: Jerry Butler
+Never Give You Up: Jerry Butler
 Sugar, Sugar: The Archies
 Aquarius/Let the Sunshine In: The 5th Dimension
 I Can't Get Next to You: The Temptations
@@ -587,7 +622,7 @@ It's Your Thing: The Isley Brothers
 Sweet Caroline: Neil Diamond
 Jean: Oliver
 Bad Moon Rising: Creedence Clearwater Revival
-Get Back: None
+Get Back: The Beatles
 In the Year 2525: Zager & Evans
 Spinning Wheel: Blood, Sweat & Tears
 Baby, I Love You: Andy Kim
@@ -620,6 +655,7 @@ Traces: Classics IV
 It's Getting Better: "Mama" Cass Elliot
 This Magic Moment: Jay and the Americans
 Runaway Child, Running Wild: The Temptations
+Hawaii Five-O: The Ventures
 Galveston: Glen Campbell
 I'm Gonna Make You Mine: Lou Christie
 Gitarzan: Ray Stevens
@@ -648,17 +684,21 @@ Something: The Beatles
 This Girl Is a Woman Now: Gary Puckett & The Union Gap
 Come Together: The Beatles
 Ramblin' Gamblin' Man: Bob Seger System
-I'm Gonna Make You Love Me: None
+I'm Gonna Make You Love Me: The Supremes
 I Heard It Through the Grapevine: Marvin Gaye
 Gimme Gimme Good Lovin': Crazy Elephant
 Hang 'Em High: Booker T & the M.G.'s
 Your Good Thing (Is About to End): Lou Rawls
 Baby, I'm for Real: The Originals
 Oh Happy Day: Edwin Hawkins Singers
+Love Me Tonight: Tom Jones
 Mr. Sun, Mr. Moon: Paul Revere & the Raiders
 Laughing: The Guess Who
 My Whole World Ended (The Moment You Left Me): David Ruffin
+Soul Deep: The Box Tops
 Hooked on a Feeling: B.J. Thomas
+Sweet Cream Ladies: The Box Tops
+Let Me: Paul Revere & the Raiders
 Joy to the World: Three Dog Night
 Maggie May: Rod Stewart
 It's Too Late: Carole King
@@ -680,7 +720,7 @@ Brown Sugar: The Rolling Stones
 Do You Know What I Mean: Lee Michaels
 The Night They Drove Old Dixie Down: Joan Baez
 What's Going On: Marvin Gaye
-Uncle Albert/Admiral Halsey: None
+Uncle Albert/Admiral Halsey: Paul
 Ain't No Sunshine: Bill Withers
 Signs: Five Man Electrical Band
 She's a Lady: Tom Jones
@@ -721,9 +761,11 @@ Me and You and a Dog Named Boo: Lobo
 Another Day: Paul McCartney
 If: Bread
 Mercy Mercy Me (The Ecology): Marvin Gaye
+One Toke Over the Line: Brewer & Shipley
+She's Not Just Another Woman: 8th Day
 Bring the Boys Home: Freda Payne
 I Just Want to Celebrate: Rare Earth
-Never Ending Song of Love: None
+Never Ending Song of Love: Delaney & Bonnie
 Easy Loving: Freddie Hart
 Liar: Three Dog Night
 Stick-Up: Honey Cone
@@ -752,6 +794,8 @@ The Wedding Song (There Is Love): Paul Stookey
 Don't Knock My Love: Wilson Pickett
 Love Her Madly: The Doors
 Here Comes the Sun: Richie Havens
+Sweet Mary: Wadsworth Mansion
+Right on the Tip of My Tongue: Brenda & the Tabulations
 One Less Bell to Answer: The 5th Dimension
 Riders on the Storm: The Doors
 Somos Novios (It's Impossible): Perry Como
@@ -777,6 +821,7 @@ I'll Take You There: The Staple Singers
 Ben: Michael Jackson
 The Lion Sleeps Tonight: Robert John
 Outa-Space: Billy Preston
+Slippin' Into Darkness: War
 Long Cool Woman in a Black Dress: The Hollies
 How Do You Do: Mouth & MacNeal
 Song Sung Blue: Neil Diamond
@@ -791,6 +836,7 @@ Too Late to Turn Back Now: Cornelius Brothers & Sister Rose
 Back Stabbers: The O'Jays
 Down by the Lazy River: The Osmonds
 Sunshine: Jonathan Edwards
+Starting All Over Again: Mel and Tim
 Day After Day: Badfinger
 Rocket Man: Elton John
 Rockin' Robin: Michael Jackson
@@ -810,7 +856,7 @@ Look What You Done for Me: Al Green
 The Happiest Girl in the Whole U.S.A.: Donna Fargo
 Get It On: T. Rex
 Mother and Child Reunion: Paul Simon
-Where Is the Love: None
+Where Is the Love: Roberta Flack
 I'm Still in Love with You: Al Green
 Layla: Derek and the Dominos
 Day Dreaming: Aretha Franklin
@@ -823,6 +869,7 @@ Puppy Love: Donny Osmond
 You Don't Mess Around with Jim: Jim Croce
 Hot Rod Lincoln: Commander Cody and His Lost Planet Airmen
 A Cowboy's Work Is Never Done: Sonny & Cher
+Joy: Apollo 100
 Anticipation: Carly Simon
 Never Been to Spain: Three Dog Night
 Kiss an Angel Good Mornin': Charley Pride
@@ -835,16 +882,19 @@ Troglodyte (Cave Man): The Jimmy Castor Bunch
 The Witch Queen of New Orleans: Redbone
 Freddie's Dead: Curtis Mayfield
 Power of Love: Joe Simon
+Ain't Understanding Mellow: Jerry Butler
 Taxi: Harry Chapin
 Don't Say You Don't Remember: Beverly Bremers
 Sealed with a Kiss: Bobby Vinton
 I Saw the Light: Todd Rundgren
-Day by Day: None
+Motorcycle Mama: Sailcat
+Day by Day: Original Cast of 
 Roundabout: Yes
 Doctor My Eyes: Jackson Browne
 I'd Like to Teach the World to Sing (In Perfect Harmony): The New Seekers
 Vincent: Don McLean
 Baby Let Me Take You (In My Arms): The Detroit Emeralds
+Speak to the Sky: Rick Springfield
 I'd Like to Teach the World to Sing (In Perfect Harmony): The Hillside Singers
 Walkin' in the Rain with the One I Love: Love Unlimited
 Get on the Good Foot: James Brown
@@ -909,7 +959,7 @@ Oh, Babe, What Would You Say?: Hurricane Smith
 I Believe in You (You Believe in Me): Johnnie Taylor
 Sing: The Carpenters
 Ain't No Woman (Like the One I've Got): The Four Tops
-Dueling Banjos: None
+Dueling Banjos: Eric Weissberg
 Higher Ground: Stevie Wonder
 Here I Am (Come and Take Me): Al Green
 My Maria: B.W. Stevenson
@@ -941,6 +991,8 @@ Daisy a Day: Jud Strunk
 Also Sprach Zarathustra (2001): Deodato
 Stir It Up: Johnny Nash
 Money: Pink Floyd
+Gypsy Man: War
+The World Is a Ghetto: War
 Yes We Can Can: The Pointer Sisters
 Free Ride: The Edgar Winter Group
 Space Oddity: David Bowie
@@ -993,16 +1045,16 @@ Rock the Boat: The Hues Corporation
 Smokin' in the Boys Room: Brownsville Station
 Living for the City: Stevie Wonder
 The Night Chicago Died: Paper Lace
-Then Came You: None
+Then Came You: Dionne Warwick
 The Entertainer: Marvin Hamlisch
 Waterloo: ABBA
 The Air That I Breathe: The Hollies
 Rikki Don't Lose That Number: Steely Dan
-Mockingbird: None
+Mockingbird: Carly Simon
 Help Me: Joni Mitchell
 You Won't See Me: Anne Murray
 Never, Never Gonna Give You Up: Barry White
-Tell Me Something Good: None
+Tell Me Something Good: Rufus
 You and Me Against the World: Helen Reddy
 Rock and Roll Heaven: The Righteous Brothers
 Hollywood Swinging: Kool & the Gang
@@ -1015,6 +1067,7 @@ Please Come to Boston: Dave Loggins
 Keep on Smilin': Wet Willie
 Lookin' for a Love: Bobby Womack
 Put Your Hands Together: The O'Jays
+On and On: Gladys Knight & the Pips
 Oh Very Young: Cat Stevens
 Leave Me Alone (Ruby Red Dress): Helen Reddy
 Goodbye Yellow Brick Road: Elton John
@@ -1026,19 +1079,22 @@ Jet: Paul McCartney and Wings
 Don't Let the Sun Go Down on Me: Elton John
 Tubular Bells: Mike Oldfield
 A Love Song: Anne Murray
-I'm Leaving It Up to You: None
+I'm Leaving It Up to You: Donny
 Hello It's Me: Todd Rundgren
 I Love: Tom T. Hall
-Clap for the Wolfman: None
+Clap for the Wolfman: The Guess Who
 I'll Have to Say I Love You in a Song: Jim Croce
 The Lord's Prayer: Sister Janet Mead
+Trying To Hold On To My Woman: Lamont Dozier
 Don't You Worry 'bout a Thing: Stevie Wonder
 A Very Special Love Song: Charlie Rich
 My Girl Bill: Jim Stafford
 Helen Wheels: Paul McCartney and Wings
-My Mistake (Was to Love You): None
+My Mistake (Was to Love You): Diana Ross
 Wildwood Weed: Jim Stafford
 Beach Baby: The First Class
+Me and Baby Brother: War
+Rockin' Roll Baby: The Stylistics
 I Honestly Love You: Olivia Newton-John
 Call on Me: Chicago
 Wild Thing: Fancy
@@ -1063,7 +1119,7 @@ The Ballroom Blitz: Sweet
 He Don't Love You (Like I Love You): Tony Orlando and Dawn
 At Seventeen: Janis Ian
 Pick Up the Pieces: Average White Band
-The Hustle: None
+The Hustle: Van McCoy
 Lady Marmalade: Labelle
 Why Can't We Be Friends: War
 Love Won't Let Me Wait: Major Harris
@@ -1107,12 +1163,15 @@ Bad Time: Grand Funk
 Only Women Bleed: Alice Cooper
 Doctor's Orders: Carol Douglas
 Get Down Tonight: KC and the Sunshine Band
+One Man Woman/One Woman Man: Paul Anka
 You Are So Beautiful: Joe Cocker
 Feel Like Makin' Love: Bad Company
 How Sweet It Is (To Be Loved by You): James Taylor
 Dance with Me: Orleans
+Cut the Cake: Average White Band
 Never Can Say Goodbye: Gloria Gaynor
-Morning Side of the Mountain: None
+I Don't Like to Sleep Alone: Paul Anka
+Morning Side of the Mountain: Donny
 Some Kind of Wonderful: Grand Funk Railroad
 When Will I See You Again: The Three Degrees
 Get Down, Get Down (Get on the Floor): Joe Simon
@@ -1121,6 +1180,7 @@ Killer Queen: Queen
 Shoeshine Boy: Eddie Kendricks
 Do It ('Til You're Satisfied): B.T. Express
 Can't Get It Out of My Head: Electric Light Orchestra
+Sha-La-La (Make Me Happy): Al Green
 Lonely People: America
 You Got the Love: Rufus
 The Rockford Files Theme: Mike Post
@@ -1128,9 +1188,10 @@ It Only Takes a Minute: Tavares
 No No Song: Ringo Starr
 Junior's Farm: Paul McCartney & Wings
 Bungle in the Jungle: Jethro Tull
+Long Tall Glasses: Leo Sayer
 Misty: Ray Stevens
 Someone Saved My Life Tonight: Elton John
-Bad Blood: None
+Bad Blood: Neil Sedaka
 Only Yesterday: The Carpenters
 I'm on Fire: Dwight Twilley Band
 Only You (And You Alone): Ringo Starr
@@ -1139,7 +1200,7 @@ You Ain't Seen Nothing Yet: Bachman–Turner Overdrive
 Swearin' to God: Frankie Valli
 Get Dancin': Disco-Tex and the Sex-O-Lettes
 Silly Love Songs: Wings
-Don't Go Breaking My Heart: None
+Don't Go Breaking My Heart: Elton John
 Disco Lady: Johnnie Taylor
 December, 1963 (Oh, What a Night): The Four Seasons
 Play That Funky Music: Wild Cherry
@@ -1147,7 +1208,7 @@ Kiss and Say Goodbye: The Manhattans
 Love Machine: The Miracles
 50 Ways to Leave Your Lover: Paul Simon
 Love Is Alive: Gary Wright
-A Fifth of Beethoven: None
+A Fifth of Beethoven: Walter Murphy
 Sara Smile: Hall & Oates
 Afternoon Delight: Starland Vocal Band
 I Write the Songs: Barry Manilow
@@ -1179,7 +1240,7 @@ Turn the Beat Around: Vicki Sue Robinson
 Lonely Night (Angel Face): Captain & Tennille
 All by Myself: Eric Carmen
 Love to Love You Baby: Donna Summer
-Deep Purple: None
+Deep Purple: Donny
 None: Diana Ross
 Sweet Thing: Rufus
 That's the Way (I Like It): KC and the Sunshine Band
@@ -1234,7 +1295,7 @@ Give Up the Funk (Tear the Roof off the Sucker): Parliament
 Junk Food Junkie: Larry Groce
 Tryin' to Get the Feeling Again: Barry Manilow
 Rock and Roll All Nite: Kiss
-Disco Duck: None
+Disco Duck: Rick Dees
 Take the Money and Run: Steve Miller Band
 Squeeze Box: The Who
 Country Boy (You Got Your Feet in L.A.): Glen Campbell
@@ -1258,13 +1319,13 @@ Do You Wanna Make Love: Peter McCann
 Sir Duke: Stevie Wonder
 Hotel California: Eagles
 Got to Give It Up: Marvin Gaye
-Gonna Fly Now: None
+Gonna Fly Now: Bill Conti
 Southern Nights: Glen Campbell
 Rich Girl: Hall & Oates
 When I Need You: Leo Sayer
 Hot Line: The Sylvers
 Car Wash: Rose Royce
-You Don't Have to Be a Star (To Be in My Show): None
+You Don't Have to Be a Star (To Be in My Show): Marilyn McCoo
 Fly Like an Eagle: Steve Miller Band
 Don't Give Up on Us: David Soul
 On and On: Stephen Bishop
@@ -1304,6 +1365,7 @@ Stand Tall: Burton Cummings
 Way Down: Elvis Presley
 Weekend in New England: Barry Manilow
 It Was Almost Like a Song: Ronnie Milsap
+Smoke from a Distant Fire: Sanford-Townsend Band
 Cold as Ice: Foreigner
 Ariel: Dean Friedman
 Lost Without Your Love: Bread
@@ -1349,7 +1411,7 @@ Boogie Oogie Oogie: A Taste of Honey
 Three Times a Lady: Commodores
 Grease: Frankie Valli
 I Go Crazy: Paul Davis
-You're the One That I Want: None
+You're the One That I Want: John Travolta
 Emotion: Samantha Sang
 Lay Down Sally: Eric Clapton
 Miss You: The Rolling Stones
@@ -1364,7 +1426,7 @@ It's a Heartache: Bonnie Tyler
 We Will Rock You: Queen
 Baker Street: Gerry Rafferty
 Can't Smile Without You: Barry Manilow
-Too Much, Too Little, Too Late: None
+Too Much, Too Little, Too Late: Johnny Mathis
 Dance With Me: Peter Brown
 Two Out of Three Ain't Bad: Meat Loaf
 Jack And Jill: Raydio
@@ -1374,7 +1436,7 @@ Last Dance: Donna Summer
 Hopelessly Devoted to You: Olivia Newton-John
 Hot Blooded: Foreigner
 You're in My Heart (The Final Acclaim): Rod Stewart
-The Closer I Get to You: None
+The Closer I Get to You: Roberta Flack
 Dust in the Wind: Kansas
 Magnet and Steel: Walter Egan
 Short People: Randy Newman
@@ -1405,7 +1467,7 @@ Reminiscing: Little River Band
 Count On Me: Jefferson Starship
 Baby Hold On: Eddie Money
 Hey Deanie: Shaun Cassidy
-Summer Nights: None
+Summer Nights: John Travolta
 What's Your Name: Lynyrd Skynyrd
 Don't It Make My Brown Eyes Blue: Crystal Gayle
 Because the Night: Patti Smith Group
@@ -1415,10 +1477,11 @@ Always and Forever: Heatwave
 You and I: Rick James
 Serpentine Fire: Earth, Wind & Fire
 Sentimental Lady: Bob Welch
+Falling: LeBlanc
 Don't Let Me Be Misunderstood: Santa Esmeralda
 Bluer Than Blue: Michael Johnson
 Running on Empty: Jackson Browne
-Whenever I Call You 'Friend': None
+Whenever I Call You 'Friend': Kenny Loggins
 Fool (If You Think It's Over): Chris Rea
 Get Off: Foxy
 Sweet Talkin' Woman: Electric Light Orchestra
@@ -1456,9 +1519,9 @@ A Little More Love: Olivia Newton-John
 Heart of Glass: Blondie
 What a Fool Believes: The Doobie Brothers
 Good Times: Chic
-You Don't Bring Me Flowers: None
+You Don't Bring Me Flowers: Neil Diamond
 Knock on Wood: Amii Stewart
-Stumblin' In: None
+Stumblin' In: Suzi Quatro
 Lead Me On: Maxine Nightingale
 Shake Your Body (Down to the Ground): The Jacksons
 Don't Cry Out Loud: Melissa Manchester
@@ -1470,10 +1533,11 @@ Shake Your Groove Thing: Peaches & Herb
 I'll Never Love This Way Again: Dionne Warwick
 Love You Inside Out: Bee Gees
 I Want You to Want Me: Cheap Trick
+The Main Event/Fight: Barbra Streisand
 Mama Can't Buy You Love: Elton John
 I Was Made for Dancin': Leif Garrett
 After the Love Has Gone: Earth, Wind & Fire
-Heaven Knows: None
+Heaven Knows: Donna Summer
 The Gambler: Kenny Rogers
 Lotta Love: Nicolette Larson
 Lady: Little River Band
@@ -1485,10 +1549,13 @@ She Believes in Me: Kenny Rogers
 In the Navy: Village People
 Music Box Dancer: Frank Mills
 The Devil Went Down to Georgia: The Charlie Daniels Band
+Gold: John Stewart
 Goodnight Tonight: Wings
 We Are Family: Sister Sledge
+Rock 'n' Roll Fantasy: Bad Company
+Every 1's a Winner: Hot Chocolate
 Take Me Home: Cher
-Boogie Wonderland: None
+Boogie Wonderland: Earth, Wind & Fire
 (Our Love) Don't Throw It All Away: Andy Gibb
 What You Won't Do for Love: Bobby Caldwell
 New York Groove: Ace Frehley
@@ -1497,6 +1564,7 @@ I Want Your Love: Chic
 Chuck E.'s In Love: Rickie Lee Jones
 I Love the Nightlife: Alicia Bridges
 Ain't No Stoppin' Us Now: McFadden & Whitehead
+Lonesome Loser: Little River Band
 Renegade: Styx
 Love Is the Answer: England Dan & John Ford Coley
 Got to Be Real: Cheryl Lynn
@@ -1512,6 +1580,7 @@ September: Earth, Wind & Fire
 Time Passages: Al Stewart
 Rise: Herb Alpert
 Don't Bring Me Down: Electric Light Orchestra
+Promises: Eric Clapton
 Get Used to It: Roger Voudouris
 How Much I Feel: Ambrosia
 Suspicions: Eddie Rabbitt
@@ -1529,6 +1598,7 @@ Dancin' Shoes: Nigel Olsson
 The Boss: Diana Ross
 Sail On: Commodores
 I Do Love You: GQ
+Strange Way: Firefall
 Call Me: Blondie
 Another Brick in the Wall, Part II: Pink Floyd
 Magic: Olivia Newton-John
@@ -1549,24 +1619,24 @@ Ride Like the Wind: Christopher Cross
 Upside Down: Diana Ross
 Please Don't Go: KC and the Sunshine Band
 Babe: Styx
-With You I'm Born Again: None
+With You I'm Born Again: Billy Preston
 Shining Star: The Manhattans
 Still: Commodores
-Yes, I'm Ready: None
+Yes, I'm Ready: Teri DeSario
 Sexy Eyes: Dr. Hook
 Steal Away: Robbie Dupree
 Biggest Part of Me: Ambrosia
 This Is It: Kenny Loggins
 Cupid: The Spinners
 Let's Get Serious: Jermaine Jackson
-Don't Fall in Love with a Dreamer: None
+Don't Fall in Love with a Dreamer: Kenny Rogers
 Sailing: Christopher Cross
 Longer: Dan Fogelberg
 Coward of the County: Kenny Rogers
 Ladies' Night: Kool & the Gang
 Too Hot: Kool & the Gang
 Take Your Time (Do It Right): The SOS Band
-No More Tears (Enough Is Enough): None
+No More Tears (Enough Is Enough): Barbra Streisand
 More Love: Kim Carnes
 Pop Muzik: M
 Brass in Pocket: The Pretenders
@@ -1588,8 +1658,10 @@ Cool Change: Little River Band
 You're Only Lonely: J.D. Souther
 Desire: Andy Gibb
 Let My Love Open the Door: Pete Townshend
+Romeo's Tune: Steve Forbert
 Daydream Believer: Anne Murray
 I Can't Tell You Why: Eagles
+Don't Let Go: Isaac Hayes
 Don't Do Me Like That: Tom Petty and the Heartbreakers
 She's Out of My Life: Michael Jackson
 Fame: Irene Cara
@@ -1602,9 +1674,11 @@ An American Dream: The Dirt Band
 One Fine Day: Carole King
 Dim All the Lights: Donna Summer
 You May Be Right: Billy Joel
+Should've Never Let You Go: Neil
 Pilot of the Airwaves: Charlie Dore
 Hurt So Bad: Linda Ronstadt
 Off the Wall: Michael Jackson
+I Pledge My Love: Peaches & Herb
 The Long Run: Eagles
 Stand by Me: Mickey Gilley
 Heartbreaker: Pat Benatar
@@ -1613,6 +1687,8 @@ Drivin' My Life Away: Eddie Rabbitt
 Take the Long Way Home: Supertramp
 Sara: Fleetwood Mac
 Wait for Me: Hall & Oates
+Jojo: Boz Scaggs
+September Morn: Neil Diamond
 Give Me the Night: George Benson
 Broken Hearted Me: Anne Murray
 You Decorated My Life: Kenny Rogers
@@ -1624,7 +1700,7 @@ Ships: Barry Manilow
 All Night Long: Joe Walsh
 Refugee: Tom Petty and the Heartbreakers
 Bette Davis Eyes: Kim Carnes
-Endless Love: None
+Endless Love: Diana Ross
 Lady: Kenny Rogers
 (Just Like) Starting Over: John Lennon
 Jessie's Girl: Rick Springfield
@@ -1640,7 +1716,7 @@ Queen of Hearts: Juice Newton
 Rapture: Blondie
 A Woman Needs Love (Just Like You Do): Raydio
 The Tide Is High: Blondie
-Just the Two of Us: None
+Just the Two of Us: Grover Washington, Jr.
 Slow Hand: The Pointer Sisters
 I Love You: Climax Blues Band
 Woman: John Lennon
@@ -1651,7 +1727,7 @@ Angel of the Morning: Juice Newton
 Love on the Rocks: Neil Diamond
 Every Woman in the World: Air Supply
 The One That You Love: Air Supply
-Guilty: None
+Guilty: Barbra Streisand
 The Best of Times: Styx
 Elvira: The Oak Ridge Boys
 Take It on the Run: REO Speedwagon
@@ -1672,14 +1748,20 @@ Hit Me with Your Best Shot: Pat Benatar
 The Breakup Song (They Don't Write 'Em): The Greg Kihn Band
 Time: The Alan Parsons Project
 Hungry Heart: Bruce Springsteen
+Sweetheart: Franke and the Knockouts
 Somebody's Knockin': Terri Gibbs
 More Than I Can Say: Leo Sayer
+Together: Tierra
 Too Much Time on My Hands: Styx
-What Are We Doin' in Love: None
+What Are We Doin' in Love: Dottie West
 Who's Crying Now: Journey
 De Do Do Do, De Da Da Da: The Police
-Stop Draggin' My Heart Around: None
+This Little Girl: Gary U.S. Bonds
+Stop Draggin' My Heart Around: Stevie Nicks
+Giving It Up for Your Love: Delbert McClinton
+A Little in Love: Cliff Richard
 America: Neil Diamond
+Ain't Even Done With The Night: John Cougar
 Arthur's Theme (Best That You Can Do): Christopher Cross
 Another One Bites the Dust: Queen
 Games People Play: The Alan Parsons Project
@@ -1694,20 +1776,20 @@ All Those Years Ago: George Harrison
 Step By Step: Eddie Rabbitt
 The Stroke: Billy Squier
 Feels So Right: Alabama
-Sweet Baby: None
+Sweet Baby: George Duke
 Same Old Lang Syne: Dan Fogelberg
 Cool Love: Pablo Cruise
 Hold On Tight: Electric Light Orchestra
 It's Now or Never: John Schneider
 Treat Me Right: Pat Benatar
 Winning: Santana
-What Kind of Fool: None
+What Kind of Fool: Barbra Streisand
 Watching the Wheels: John Lennon
 Tell It Like It Is: Heart
 Smoky Mountain Rain: Ronnie Milsap
 I Made It Through the Rain: Barry Manilow
 You've Lost That Lovin' Feelin': Hall & Oates
-Suddenly: None
+Suddenly: Olivia Newton-John
 For Your Eyes Only: Sheena Easton
 The Beach Boys Medley: The Beach Boys
 Whip It: Devo
@@ -1720,7 +1802,7 @@ Time Is Time: Andy Gibb
 Physical: Olivia Newton-John
 Eye of the Tiger: Survivor
 I Love Rock 'n Roll: Joan Jett & The Blackhearts
-Ebony and Ivory: None
+Ebony and Ivory: Paul McCartney
 Centerfold: The J. Geils Band
 Don't You Want Me: The Human League
 Jack & Diane: John Cougar
@@ -1744,6 +1826,7 @@ Let It Whip: Dazz Band
 We Got the Beat: The Go-Go's
 The Other Woman: Ray Parker Jr.
 Turn Your Love Around: George Benson
+Sweet Dreams: Air Supply
 Only the Lonely: The Motels
 Who Can It Be Now?: Men at Work
 Hold Me: Fleetwood Mac
@@ -1751,7 +1834,7 @@ Eye in the Sky: The Alan Parsons Project
 Let's Groove: Earth, Wind & Fire
 Open Arms: Journey
 Leader of the Band: Dan Fogelberg
-Leather and Lace: None
+Leather and Lace: Stevie Nicks
 Even the Nights Are Better: Air Supply
 I've Never Been to Me: Charlene
 '65 Love Affair: Paul Davis
@@ -1776,7 +1859,7 @@ Wasted on the Way: Crosby, Stills & Nash
 Think I'm in Love: Eddie Money
 Love Is in Control (Finger on the Trigger): Donna Summer
 Personally: Karla Bonoff
-One Hundred Ways: None
+One Hundred Ways: Quincy Jones
 Blue Eyes: Elton John
 Our Lips Are Sealed: The Go-Go's
 You Could Have Been with Me: Sheena Easton
@@ -1804,6 +1887,7 @@ Take My Heart (You Can Have It If You Want It): Kool & the Gang
 Mirror Mirror: Diana Ross
 Vacation: The Go-Go's
 Oh, Pretty Woman: Van Halen
+Should I Do It: The Pointer Sisters
 Hot in the City: Billy Idol
 Kids in America: Kim Wilde
 Man on Your Mind: Little River Band
@@ -1822,11 +1906,11 @@ Down Under: Men at Work
 Beat It: Michael Jackson
 Total Eclipse of the Heart: Bonnie Tyler
 Maneater: Hall & Oates
-Baby, Come to Me: None
+Baby, Come to Me: Patti Austin
 Maniac: Michael Sembello
 Sweet Dreams (Are Made of This): Eurythmics
 Do You Really Want to Hurt Me: Culture Club
-You and I: None
+You and I: Eddie Rabbitt
 Come On Eileen: Dexys Midnight Runners
 Shame on the Moon: Bob Seger & The Silver Bullet Band
 She Works Hard for the Money: Donna Summer
@@ -1841,7 +1925,7 @@ She Blinded Me with Science: Thomas Dolby
 Africa: Toto
 Little Red Corvette: Prince
 Back on the Chain Gang: The Pretenders
-Up Where We Belong: None
+Up Where We Belong: Joe Cocker
 Mr. Roboto: Styx
 You Are: Lionel Richie
 Der Kommissar: After the Fire
@@ -1854,7 +1938,7 @@ Mickey: Toni Basil
 You Can't Hurry Love: Phil Collins
 Separate Ways (Worlds Apart): Journey
 One on One: Hall & Oates
-We've Got Tonight: None
+We've Got Tonight: Kenny Rogers
 1999: Prince
 Stray Cat Strut: Stray Cats
 Allentown: Billy Joel
@@ -1863,7 +1947,7 @@ Tell Her About It: Billy Joel
 Always Something There to Remind Me: Naked Eyes
 Truly: Lionel Richie
 Dirty Laundry: Don Henley
-The Girl Is Mine: None
+The Girl Is Mine: Michael Jackson
 Too Shy: Kajagoogoo
 Goody Two-Shoes: Adam Ant
 Rock the Casbah: The Clash
@@ -1879,6 +1963,7 @@ How Am I Supposed to Live Without You: Laura Branigan
 China Girl: David Bowie
 Come Dancing: The Kinks
 Promises, Promises: Naked Eyes
+The Other Guy: Little River Band
 Making Love Out of Nothing at All: Air Supply
 Family Man: Hall & Oates
 Wanna Be Startin' Somethin': Michael Jackson
@@ -1896,8 +1981,10 @@ Your Love Is Driving Me Crazy: Sammy Hagar
 Heartbreaker: Dionne Warwick
 Faithfully: Journey
 Steppin' Out: Joe Jackson
+Take Me to Heart: Quarterflash
 (She's) Sexy + 17: Stray Cats
 Try Again: Champaign
+Dead Giveaway: Shalamar
 Lawyers in Love: Jackson Browne
 What About Me: Moving Pictures
 Human Nature: Michael Jackson
@@ -1907,13 +1994,14 @@ True: Spandau Ballet
 Far from Over: Frank Stallone
 I've Got a Rock 'n' Roll Heart: Eric Clapton
 It Might Be You: Stephen Bishop
-Tonight, I Celebrate My Love: None
+Tonight, I Celebrate My Love: Peabo Bryson
 You Got Lucky: Tom Petty and the Heartbreakers
 Don't Cry: Asia
+Breaking Us in Two: Joe Jackson
 Fall in Love with Me: Earth, Wind & Fire
 When Doves Cry: Prince
 What's Love Got to Do with It: Tina Turner
-Say Say Say: None
+Say Say Say: Paul McCartney
 Footloose: Kenny Loggins
 Against All Odds (Take a Look at Me Now): Phil Collins
 Jump: Van Halen
@@ -1960,16 +2048,16 @@ The Warrior: Scandal
 If Ever You're in My Arms Again: Peabo Bryson
 Automatic: The Pointer Sisters
 Let the Music Play: Shannon
-To All the Girls I've Loved Before: None
+To All the Girls I've Loved Before: Julio Iglesias
 Caribbean Queen: Billy Ocean
 That's All: Genesis
 Running with the Night: Lionel Richie
 Sad Songs (Say So Much): Elton John
 I Want a New Drug: Huey Lewis and the News
-Islands in the Stream: None
+Islands in the Stream: Kenny Rogers
 Love Is a Battlefield: Pat Benatar
 Infatuation: Rod Stewart
-Almost Paradise: None
+Almost Paradise: Mike Reno
 Legs: ZZ Top
 State of Shock: The Jacksons
 Love Somebody: Rick Springfield
@@ -2000,16 +2088,18 @@ Pink Houses: John Cougar Mellencamp
 Round and Round: Ratt
 Head over Heels: The Go-Go's
 The Longest Time: Billy Joel
+Tonight: Kool & the Gang
 Got a Hold on Me: Christine McVie
 Dancing in the Sheets: Shalamar
 Undercover of the Night: The Rolling Stones
+On the Dark Side: John Cafferty & The Beaver Brown Band
 New Moon on Monday: Duran Duran
 Major Tom (Coming Home): Peter Schilling
 Magic: The Cars
 When You Close Your Eyes: Night Ranger
 Rock Me Tonite: Billy Squier
-Yah Mo B There: None
-Careless Whisper: None
+Yah Mo B There: James Ingram
+Careless Whisper: Wham!
 Like a Virgin: Madonna
 Wake Me Up Before You Go-Go: Wham!
 I Want to Know What Love Is: Foreigner
@@ -2020,7 +2110,7 @@ Money for Nothing: Dire Straits
 Crazy for You: Madonna
 Take on Me: a-ha
 Everytime You Go Away: Paul Young
-Easy Lover: None
+Easy Lover: Philip Bailey
 Can't Fight This Feeling: REO Speedwagon
 We Built This City: Starship
 The Power of Love: Huey Lewis and the News
@@ -2058,8 +2148,8 @@ Strut: Sheena Easton
 You Give Good Love: Whitney Houston
 The Search Is Over: Survivor
 Missing You: Diana Ross
-Separate Lives: None
-Raspberry Beret: None
+Separate Lives: Phil Collins
+Raspberry Beret: Prince
 Suddenly: Billy Ocean
 The Boys of Summer: Don Henley
 One Night in Bangkok: Murray Head
@@ -2109,10 +2199,10 @@ All She Wants to Do Is Dance: Don Henley
 Dress You Up: Madonna
 Sentimental Street: Night Ranger
 Sugar Walls: Sheena Easton
-That's What Friends Are For: None
+That's What Friends Are For: Dionne and Friends (
 Say You, Say Me: Lionel Richie
 I Miss You: Klymaxx
-On My Own: None
+On My Own: Patti LaBelle
 Broken Wings: Mr. Mister
 How Will I Know: Whitney Houston
 Party All the Time: Eddie Murphy
@@ -2121,13 +2211,13 @@ Kyrie: Mr. Mister
 Addicted to Love: Robert Palmer
 Greatest Love of All: Whitney Houston
 Secret Lovers: Atlantic Starr
-Friends and Lovers: None
+Friends and Lovers: Gloria Loring
 Glory of Love: Peter Cetera
 West End Girls: Pet Shop Boys
 There'll Be Sad Songs (To Make You Cry): Billy Ocean
 Alive and Kicking: Simple Minds
 Never: Heart
-Kiss: None
+Kiss: Prince
 Higher Love: Steve Winwood
 Stuck with You: Huey Lewis and the News
 Holding Back the Years: Simply Red
@@ -2197,7 +2287,7 @@ Baby Love: Regina
 Election Day: Arcadia
 Nikita: Elton John
 Take Me Home: Phil Collins
-Walk This Way: None
+Walk This Way: Run–D.M.C.
 Sweet Love: Anita Baker
 Your Wildest Dreams: Moody Blues
 Spies Like Us: Paul McCartney
@@ -2235,8 +2325,8 @@ I Still Haven't Found What I'm Looking For: U2
 I Want Your Sex: George Michael
 Notorious: Duran Duran
 Only in My Dreams: Debbie Gibson
-(I've Had) The Time of My Life: None
-The Next Time I Fall: None
+(I've Had) The Time of My Life: Bill Medley
+The Next Time I Fall: Peter Cetera
 Lean on Me: Club Nouveau
 Open Your Heart: Madonna
 Lost in Emotion: Lisa Lisa and Cult Jam
@@ -2244,16 +2334,16 @@ Lost in Emotion: Lisa Lisa and Cult Jam
 Heart and Soul: T'Pau
 You Keep Me Hangin' On: Kim Wilde
 Keep Your Hands to Yourself: Georgia Satellites
-I Knew You Were Waiting (For Me): None
+I Knew You Were Waiting (For Me): Aretha Franklin
 Control: Janet Jackson
 U Got the Look: Prince
-Somewhere Out There: None
+Somewhere Out There: Linda Ronstadt
 Land of Confusion: Genesis
 Jacob's Ladder: Huey Lewis and the News
 Who's That Girl: Madonna
 You Got It All: The Jets
 Touch Me (I Want Your Body): Samantha Fox
-I Just Can't Stop Loving You: None
+I Just Can't Stop Loving You: Michael Jackson
 Causing a Commotion: Madonna
 In Too Deep: Genesis
 Let's Wait Awhile: Janet Jackson
@@ -2271,12 +2361,13 @@ Bad: Michael Jackson
 Sign o' the Times: Prince
 Change of Heart: Cyndi Lauper
 Come Go with Me: Exposé
-Can't We Try: None
+Can't We Try: Dan Hill
 To Be a Lover: Billy Idol
 Mandolin Rain: Bruce Hornsby and the Range
 Breakout: Swing Out Sister
 Stand by Me: Ben E. King
 Tonight, Tonight, Tonight: Genesis
+Someday: Glass Tiger
 When Smokey Sings: ABC
 Casanova: LeVert
 Rhythm Is Gonna Get You: Gloria Estefan and Miami Sound Machine
@@ -2285,6 +2376,7 @@ Wanted Dead or Alive: Bon Jovi
 Big Time: Peter Gabriel
 The Finer Things: Steve Winwood
 Let Me Be the One: Exposé
+Is This Love: Survivor
 Diamonds: Herb Alpert
 Point of No Return: Exposé
 Big Love: Fleetwood Mac
@@ -2297,10 +2389,12 @@ Just to See Her: Smokey Robinson
 Who Will You Run To: Heart
 Respect Yourself: Bruce Willis
 Cross My Broken Heart: The Jets
+Victory: Kool & the Gang
 Don't Get Me Wrong: The Pretenders
 Doing It All for My Baby: Huey Lewis and the News
 Right on Track: Breakfast Club
 Ballerina Girl: Lionel Richie
+Meet Me Half Way: Kenny Loggins
 I've Been in Love Before: Cutting Crew
 (You Gotta) Fight for Your Right (To Party!): Beastie Boys
 Funkytown: Pseudo Echo
@@ -2344,7 +2438,7 @@ The Way You Make Me Feel: Michael Jackson
 Don't Worry, Be Happy: Bobby McFerrin
 Make Me Lose Control: Eric Carmen
 Red Red Wine: UB40
-She's Like the Wind: None
+She's Like the Wind: Patrick Swayze
 Bad Medicine: Bon Jovi
 Kokomo: The Beach Boys
 I Don't Wanna Go on with You Like That: Elton John
@@ -2354,7 +2448,7 @@ Devil Inside: INXS
 Should've Known Better: Richard Marx
 I Don't Wanna Live Without Your Love: Chicago
 The Loco-Motion: Kylie Minogue
-What Have I Done to Deserve This?: None
+What Have I Done to Deserve This?: Pet Shop Boys
 Make It Real: The Jets
 What's On Your Mind (Pure Energy): Information Society
 Tell It to My Heart: Taylor Dayne
@@ -2385,7 +2479,7 @@ Electric Blue: Icehouse
 The Valley Road: Bruce Hornsby and the Range
 Don't Be Cruel: Bobby Brown
 Always on My Mind: Pet Shop Boys
-Piano in the Dark: None
+Piano in the Dark: Brenda Russell
 When It's Love: Van Halen
 Don't Shed a Tear: Paul Carrack
 We'll Be Together: Sting
@@ -2479,13 +2573,15 @@ Cover Girl: New Kids on the Block
 Welcome to the Jungle: Guns N' Roses
 Shower Me With Your Love: Surface
 Stand: R.E.M.
+Close My Eyes Forever: Lita Ford
 All This Time: Tiffany
-After All: None
+After All: Cher
 Roni: Bobby Brown
 Love in an Elevator: Aerosmith
 Lay Your Hands on Me: Bon Jovi
 The Promise: When in Rome
 What I Am: Edie Brickell & New Bohemians
+I Remember Holding You: Boys Club
 Paradise City: Guns N' Roses
 I Wanna Have Some Fun: Samantha Fox
 She Wants to Dance with Me: Rick Astley
@@ -2494,10 +2590,11 @@ It's No Crime: Babyface
 Poison: Alice Cooper
 This Time I Know It's for Real: Donna Summer
 Smooth Criminal: Michael Jackson
+Heaven Help Me: Deon Estus
 Rock Wit'cha: Bobby Brown
 Thinking of You: Sa-Fire
 What You Don't Know: Exposé
-Surrender To Me: None
+Surrender To Me: Ann Wilson
 The End of the Innocence: Don Henley
 Keep on Movin': Soul II Soul
 Hold On: Wilson Phillips
@@ -2513,17 +2610,17 @@ Blaze of Glory: Jon Bon Jovi
 Do Me!: Bell Biv DeVoe
 How Am I Supposed to Live Without You: Michael Bolton
 Pump Up the Jam: Technotronic
-Opposites Attract: None
+Opposites Attract: Paula Abdul
 Escapade: Janet Jackson
 All I Wanna Do Is Make Love to You: Heart
 Close to You: Maxi Priest
 Black Velvet: Alannah Myles
 Release Me: Wilson Phillips
-Don't Know Much: None
+Don't Know Much: Linda Ronstadt
 All Around the World: Lisa Stansfield
 I Wanna Be Rich: Calloway
 Rub You the Right Way: Johnny Gill
-She Ain't Worth It: None
+She Ain't Worth It: Glenn Medeiros
 If Wishes Came True: Sweet Sensation
 The Power: Snap!
 (Can't Live Without Your) Love and Affection: Nelson
@@ -2541,7 +2638,7 @@ Rhythm Nation: Janet Jackson
 I'll Be Your Everything: Tommy Page
 Roam: The B-52s
 Everything: Jody Watley
-Back to Life (However Do You Want Me): None
+Back to Life (However Do You Want Me): Soul II Soul
 Here and Now: Luther Vandross
 Alright: Janet Jackson
 Ice Ice Baby: Vanilla Ice
@@ -2568,10 +2665,11 @@ Giving You the Benefit: Pebbles
 Enjoy the Silence: Depeche Mode
 Love Song: Tesla
 Price of Love: Bad English
+Girls Nite Out: Tyler Collins
 King of Wishful Thinking: Go West
 What Kind of Man Would I Be?: Chicago
 I Remember You: Skid Row
-Get Up! (Before the Night Is Over): None
+Get Up! (Before the Night Is Over): Technotronic
 Here We Are: Gloria Estefan
 Epic: Faith No More
 Love Takes Time: Mariah Carey
@@ -2583,8 +2681,9 @@ Everybody Everybody: Black Box
 I Go to Extremes: Billy Joel
 Whip Appeal: Babyface
 Oh Girl: Paul Young
-C'mon and Get My Love: None
+C'mon and Get My Love: D Mob
 (It's Just) The Way That You Love Me: Paula Abdul
+We Can't Go Wrong: The Cover Girls
 When I'm Back on My Feet Again: Michael Bolton
 Make You Sweat: Keith Sweat
 This One's for the Children: New Kids on the Block
@@ -2592,10 +2691,12 @@ What It Takes: Aerosmith
 Forever: Kiss
 Jerk Out: The Time
 Just a Friend: Biz Markie
+Whole Wide World: A'Me Lorain
 Without You: Mötley Crüe
 Swing the Mood: Jive Bunny and the Mastermixers
 Thieves in the Temple: Prince
 Mentirosa: Mellow Man Ace
+Tic-Tac-Toe: Kyper
 (Everything I Do) I Do It for You: Bryan Adams
 I Wanna Sex You Up: Color Me Badd
 Gonna Make You Sweat (Everybody Dance Now): C+C Music Factory
@@ -2615,7 +2716,7 @@ All the Man That I Need: Whitney Houston
 Right Here, Right Now: Jesus Jones
 I Adore Mi Amor: Color Me Badd
 Love Will Never Do (Without You): Janet Jackson
-Good Vibrations: None
+Good Vibrations: Marky Mark and the Funky Bunch
 Justify My Love: Madonna
 Emotions: Mariah Carey
 Joyride: Roxette
@@ -2648,7 +2749,7 @@ Love Is a Wonderful Thing: Michael Bolton
 Rhythm of My Heart: Rod Stewart
 Things That Make You Go Hmmm...: C+C Music Factory
 I Touch Myself: Divinyls
-Tom's Diner: None
+Tom's Diner: DNA
 Iesha: Another Bad Creation
 Something to Talk About: Bonnie Raitt
 After the Rain: Nelson
@@ -2661,7 +2762,7 @@ Time, Love and Tenderness: Michael Bolton
 Sadeness (Part I): Enigma
 Around the Way Girl: LL Cool J
 I'll Be There: The Escape Club
-Cream: None
+Cream: Prince
 Now That We Found Love: Heavy D & the Boyz
 Show Me the Way: Styx
 Love Takes Time: Mariah Carey
@@ -2717,11 +2818,11 @@ Life Is a Highway: Tom Cochrane
 Remember the Time: Michael Jackson
 Finally: CeCe Peniston
 This Used to Be My Playground: Madonna
-Sometimes Love Just Ain't Enough: None
+Sometimes Love Just Ain't Enough: Patty Smyth
 Can't Let Go: Mariah Carey
 Jump Around: House of Pain
-Diamonds and Pearls: None
-Don't Let the Sun Go Down on Me: None
+Diamonds and Pearls: Prince
+Don't Let the Sun Go Down on Me: George Michael
 Masterpiece: Atlantic Starr
 If You Asked Me To: Celine Dion
 Giving Him Something He Can Feel: En Vogue
@@ -2733,10 +2834,10 @@ Damn I Wish I Was Your Lover: Sophie B. Hawkins
 Tell Me What You Want Me to Do: Tevin Campbell
 Ain't 2 Proud 2 Beg: TLC
 It's So Hard to Say Goodbye to Yesterday: Boyz II Men
-Move This: None
+Move This: Technotronic
 Bohemian Rhapsody: Queen
 Tennessee: Arrested Development
-The Best Things in Life Are Free: None
+The Best Things in Life Are Free: Luther Vandross
 Make It Happen: Mariah Carey
 The One: Elton John
 Set Adrift on Memory Bliss: P.M. Dawn
@@ -2745,6 +2846,7 @@ Stay: Shakespears Sister
 Please Don't Go: KWS
 Breakin' My Heart (Pretty Brown Eyes): Mint Condition
 Wishing on a Star: The Cover Girls
+She's Playing Hard to Get: Hi-Five
 I'd Die Without You: P.M. Dawn
 Good for Me: Amy Grant
 All I Want: Toad the Wet Sprocket
@@ -2757,7 +2859,8 @@ How Do You Talk to an Angel: The Heights
 One: U2
 Keep on Walkin': CeCe Peniston
 Hold on My Heart: Genesis
-Beauty and the Beast: None
+The Way I Feel About You: Karyn White
+Beauty and the Beast: Celine Dion
 Warm It Up: Kris Kross
 In the Closet: Michael Jackson
 People Everyday: Arrested Development
@@ -2771,6 +2874,8 @@ Thought I'd Died and Gone to Heaven: Bryan Adams
 Rhythm Is a Dancer: Snap!
 Addams Groove: Hammer
 Missing You Now: Michael Bolton
+Back to the Hotel: N2Deep
+Everything Changes: Kathy Troccoli
 Have You Ever Needed Someone So Bad: Def Leppard
 Take This Heart: Richard Marx
 When I Look Into Your Eyes: FireHouse
@@ -2778,12 +2883,15 @@ I Wanna Love You: Jade
 Uhh Ahh: Boyz II Men
 Real Love: Mary J. Blige
 Justified and Ancient: The KLF
+Slow Motion: Color Me Badd
 What About Your Friends: TLC
+Thinkin' Back: Color Me Badd
 Would I Lie to You?: Charles & Eddie
 That's What Love Is For: Amy Grant
 Keep Coming Back: Richard Marx
 Free Your Mind: En Vogue
 Keep It Comin': Keith Sweat
+Just Take My Heart: Mr. Big
 I Will Remember You: Amy Grant
 We Got a Love Thang: CeCe Peniston
 Let's Get Rocked: Def Leppard
@@ -2806,10 +2914,10 @@ Knockin' da Boots: H-Town
 Lately: Jodeci
 Dazzey Duks: Duice
 Show Me Love: Robin S.
-A Whole New World: None
+A Whole New World: Peabo Bryson
 If: Janet Jackson
 I'm So Into You: SWV
-Love Is: None
+Love Is: Vanessa Williams
 Runaway Train: Soul Asylum
 I'll Never Get Over You (Getting Over Me): Exposé
 Ditty: Paperboy
@@ -2828,6 +2936,7 @@ I'd Do Anything for Love (But I Won't Do That): Meat Loaf
 Slam: Onyx
 Looking Through Patient Eyes: P.M. Dawn
 I'm Every Woman: Whitney Houston
+Baby I'm Yours: Shai
 Come Undone: Duran Duran
 I Don't Wanna Fight: Tina Turner
 I'd Die Without You: P.M. Dawn
@@ -2836,15 +2945,17 @@ Hip Hop Hooray: Naughty by Nature
 Another Sad Love Song: Toni Braxton
 Will You Be There: Michael Jackson
 Comforter: Shai
+Good Enough: Bobby Brown
 What's up: 4 Non Blondes
 All That She Wants: Ace of Base
-7: None
-Dre Day: None
+7: Prince
+Dre Day: Dr. Dre
 One Last Cry: Brian McKnight
 Just Kickin' It: Xscape
 I Get Around: 2Pac
 Bed of Roses: Bon Jovi
 Real Love: Mary J. Blige
+Here We Go Again!: Portrait
 Cryin': Aerosmith
 Cat's in the Cradle: Ugly Kid Joe
 What About Your Friends: TLC
@@ -2871,7 +2982,7 @@ What Is Love: Haddaway
 To Love Somebody: Michael Bolton
 Give It Up, Turn It Loose: En Vogue
 Alright: Kris Kross
-Check Yo Self: None
+Check Yo Self: Ice Cube
 Fields of Gold: Sting
 Ooh Child: Dino
 Faithful: Go West
@@ -2893,21 +3004,21 @@ The Power of Love: Céline Dion
 Hero: Mariah Carey
 Stay (I Missed You): Lisa Loeb and Nine Stories
 Breathe Again: Toni Braxton
-All for Love: None
+All for Love: Bryan Adams
 All That She Wants: Ace of Base
 Don't Turn Around: Ace of Base
 Bump n' Grind: R. Kelly
 Again: Janet Jackson
 I'll Remember: Madonna
-Whatta Man: None
-Wild Night: None
+Whatta Man: Salt-n-Pepa
+Wild Night: John Mellencamp
 Without You: Mariah Carey
 You Mean the World to Me: Toni Braxton
 Can You Feel the Love Tonight: Elton John
 The Most Beautiful Girl in the World: Prince
 Fantastic Voyage: Coolio
 Baby, I Love Your Way: Big Mountain
-Regulate: None
+Regulate: Warren G
 If You Go: Jon Secada
 Back & Forth: Aaliyah
 Now and Forever: Richard Marx
@@ -2941,7 +3052,7 @@ Gin and Juice: Snoop Doggy Dogg
 Never Lie: Immature
 Streets of Philadelphia: Bruce Springsteen
 Getto Jam: Domino
-Endless Love: None
+Endless Love: Luther Vandross
 I Miss You: Aaron Hall
 Understanding: Xscape
 This D.J.: Warren G
@@ -2964,6 +3075,7 @@ Dreams: Gabrielle
 Mr. Vain: Culture Beat
 Mary Jane's Last Dance: Tom Petty and the Heartbreakers
 Anything: SWV
+Beautiful in My Eyes: Joshua Kadison
 Stay: Eternal
 Flava in Ya Ear: Craig Mack
 U.N.I.T.Y.: Queen Latifah
@@ -2972,6 +3084,7 @@ Secret: Madonna
 Here Comes the Hotstepper: Ini Kamoze
 Everyday: Phil Collins
 Don't Take the Girl: Tim McGraw
+Got Me Waiting: Heavy D & the Boyz
 December, 1963 (Oh, What a Night): The Four Seasons
 Indian Outlaw: Tim McGraw
 Always: Bon Jovi
@@ -2982,9 +3095,9 @@ I'll Take You There: General Public
 Always in My Heart: Tevin Campbell
 What Is Love: Haddaway
 And Our Feelings: Babyface
-Bop Gun (One Nation): None
+Bop Gun (One Nation): Ice Cube
 I Wanna Be Down: Brandy
-Gangsta's Paradise: None
+Gangsta's Paradise: Coolio
 Waterfalls: TLC
 Creep: TLC
 Kiss from a Rose: Seal
@@ -3025,7 +3138,7 @@ Run Away: Real McCoy
 As I Lay Me Down: Sophie B. Hawkins
 He's Mine: Mokenstef
 December: Collective Soul
-I'll Be There for You/You're All I Need to Get By: None
+I'll Be There for You/You're All I Need to Get By: Method Man
 Shy Guy: Diana King
 I'm the Only One: Melissa Etheridge
 Every Little Thing I Do: Soul for Real
@@ -3035,10 +3148,11 @@ Sukiyaki: 4 P.M.
 I Wanna Be Down: Brandy
 I'll Make Love to You: Boyz II Men
 Dear Mama: 2Pac
+Hold On: Jamie Walters
 Keep Their Heads Ringin': Dr. Dre
 The Rhythm of the Night: Corona
 Roll to Me: Del Amitri
-Scream: None
+Scream: Michael Jackson
 Freek'n You: Jodeci
 I Wish: Skee-Lo
 Believe: Elton John
@@ -3048,18 +3162,18 @@ Back for Good: Take That
 Tootsee Roll: 69 Boyz
 You Want This: Janet Jackson
 Tell Me: Groove Theory
-Can't You See: None
+Can't You See: Total
 All I Wanna Do: Sheryl Crow
-This Lil' Game We Play: None
+This Lil' Game We Play: Subway
 Come and Get Your Love: Real McCoy
 This Ain't a Love Song: Bon Jovi
 Secret: Madonna
-Player's Anthem: None
+Player's Anthem: Junior M.A.F.I.A.
 Feel Me Flow: Naughty by Nature
 Every Day of the Week: Jade
 The Sweetest Days: Vanessa Williams
-Short Dick Man: None
-Brokenhearted: None
+Short Dick Man: 20 Fingers
+Brokenhearted: Brandy
 No More I Love You's: Annie Lennox
 You Used to Love Me: Faith Evans
 Constantly: Immature
@@ -3074,6 +3188,7 @@ Turn the Beat Around: Gloria Estefan
 1st of tha Month: Bone Thugs-n-Harmony
 Like the Way I Do: Melissa Etheridge
 I Live My Life for You: FireHouse
+Dream About You: Stevie B
 Cotton Eye Joe: Rednex
 Thank You: Boyz II Men
 I'll Stand by You: The Pretenders
@@ -3083,7 +3198,7 @@ Best Friend: Brandy
 Misery: Soul Asylum
 Can't Stop Lovin' You: Van Halen
 Macarena: Los del Río
-One Sweet Day: None
+One Sweet Day: Mariah Carey
 Because You Loved Me: Celine Dion
 Nobody Knows: The Tony Rich Project
 Always Be My Baby: Mariah Carey
@@ -3098,7 +3213,7 @@ Ironic: Alanis Morissette
 Exhale (Shoop Shoop): Whitney Houston
 Follow You Down: Gin Blossoms
 Sittin' Up in My Room: Brandy
-How Do U Want It: None
+How Do U Want It: 2Pac
 It's All Coming Back to Me Now: Celine Dion
 Change the World: Eric Clapton
 Hey Lover: LL Cool J
@@ -3114,26 +3229,28 @@ You Learn: Alanis Morissette
 One of Us: Joan Osborne
 Wonder: Natalie Merchant
 Not Gon' Cry: Mary J. Blige
-Gangsta's Paradise: None
-Only You: None
-Down Low (Nobody Has to Know): None
+Gangsta's Paradise: Coolio
+Only You: 112
+Down Low (Nobody Has to Know): R. Kelly
 You're the One: SWV
 Sweet Dreams: La Bouche
 Before You Walk Out of My Life: Monica
 Breakfast at Tiffany's: Deep Blue Something
 1, 2, 3, 4 (Sumpin' New): Coolio
 The World I Know: Collective Soul
-No Diggity: None
+No Diggity: Blackstreet
 Anything: 3T
 1979: The Smashing Pumpkins
 Diggin' on You: TLC
 Why I Love You So Much: Monica
-Count On Me: None
+Kissin' You: Total
+Count On Me: Whitney Houston
 Fantasy: Mariah Carey
 Time: Hootie & the Blowfish
 You'll See: Madonna
 Last Night: Az Yet
 Mouth: Merril Bainbridge
+The Earth, the Sun, the Rain: Color Me Badd
 All the Things (Your Man Won't Do): Joe
 Wonderwall: Oasis
 Woo Hah!! Got You All in Check: Busta Rhymes
@@ -3142,21 +3259,22 @@ Elevators (Me & You): Outkast
 Hook: Blues Traveler
 Doin' It: LL Cool J
 Fastlove: George Michael
-Touch Me, Tease Me: None
+Touch Me, Tease Me: Case
 Tonite's tha Night: Kris Kross
 Children: Robert Miles
-Theme from Mission: Impossible: None
+Theme from Mission: Impossible: Adam Clayton
 Closer to Free: BoDeans
 Just a Girl: No Doubt
 If Your Girl Only Knew: Aaliyah
 Lady: D'Angelo
 Key West Intermezzo (I Saw You First): John Mellencamp
 Pony: Ginuwine
-Nobody: None
+Nobody: Keith Sweat
 Old Man and Me (When I Get To Heaven): Hootie & the Blowfish
 If It Makes You Happy: Sheryl Crow
 As I Lay Me Down: Sophie B. Hawkins
-Keep On, Keepin' On: None
+Keep On, Keepin' On: MC Lyte
+Jealousy: Natalie Merchant
 I Want to Come Over: Melissa Etheridge
 Who Do U Love: Deborah Cox
 Un-Break My Heart: Toni Braxton
@@ -3167,8 +3285,9 @@ Set U Free: Planet Soul
 Hit Me Off: New Edition
 No One Else: Total
 My Boo: Ghost Town DJ's
-Get Money: None
-Po Pimp: None
+Get Money: Junior M.A.F.I.A.
+That Girl: Maxi Priest
+Po Pimp: Do or Die
 Until It Sleeps: Metallica
 Hay: Crucial Conflict
 Beautiful Life: Ace of Base
@@ -3180,9 +3299,9 @@ Only Wanna Be with You: Hootie & the Blowfish
 Don't Cry: Seal
 Something About the Way You Look Tonight: Elton John
 Foolish Games: Jewel
-I'll Be Missing You: None
+I'll Be Missing You: Puff Daddy
 Un-Break My Heart: Toni Braxton
-Can't Nobody Hold Me Down: None
+Can't Nobody Hold Me Down: Puff Daddy
 I Believe I Can Fly: R. Kelly
 Don't Let Go (Love): En Vogue
 Return of the Mack: Mark Morrison
@@ -3193,14 +3312,14 @@ MMMBop: Hanson
 For You I Will: Monica
 You Make Me Wanna...: Usher
 Bitch: Meredith Brooks
-Nobody: None
+Nobody: Keith Sweat
 Semi-Charmed Life: Third Eye Blind
 Barely Breathing: Duncan Sheik
-Hard to Say I'm Sorry: None
-Mo Money Mo Problems: None
+Hard to Say I'm Sorry: Az Yet
+Mo Money Mo Problems: The Notorious B.I.G.
 The Freshmen: The Verve Pipe
 I Want You: Savage Garden
-No Diggity: None
+No Diggity: Blackstreet
 I Belong to You (Every Time I See Your Face): Rome
 Hypnotize: The Notorious B.I.G.
 Every Time I Close My Eyes: Babyface
@@ -3217,25 +3336,25 @@ All for You: Sister Hazel
 Cupid: 112
 Where Have All the Cowboys Gone?: Paula Cole
 Sunny Came Home: Shawn Colvin
-It's Your Love: None
+It's Your Love: Tim McGraw
 Ooh Aah... Just a Little Bit: Gina G
 Mouth: Merril Bainbridge
-All Cried Out: None
+All Cried Out: Allure
 I'm Still in Love with You: New Edition
 Invisible Man: 98 Degrees
-Not Tonight: None
+Not Tonight: Lil' Kim
 Look into My Eyes: Bone Thugs-n-Harmony
 Get It Together: 702
 All by Myself: Celine Dion
 It's All Coming Back to Me Now: Celine Dion
-My Love Is the Shhh!: None
+My Love Is the Shhh!: Somethin' for the People
 Where Do You Go: No Mercy
-I Finally Found Someone: None
-I'll Be: None
+I Finally Found Someone: Barbra Streisand
+I'll Be: Foxy Brown
 If It Makes You Happy: Sheryl Crow
 Never Make a Promise: Dru Hill
 When You Love a Woman: Journey
-Up Jumps da Boogie: None
+Up Jumps da Boogie: Timbaland & Magoo
 I Don't Want To: Toni Braxton
 Everyday Is a Winding Road: Sheryl Crow
 Cold Rock a Party: MC Lyte
@@ -3243,7 +3362,7 @@ Pony: Ginuwine
 Building a Mystery: Sarah McLachlan
 I Love You Always Forever: Donna Lewis
 Your Woman: White Town
-C U When U Get There: None
+C U When U Get There: Coolio
 Change the World: Eric Clapton
 My Baby Daddy: B-Rock and the Bizz
 Tubthumping: Chumbawamba
@@ -3252,20 +3371,23 @@ Last Night: Az Yet
 The Jock Jam: Various Artists
 Big Daddy: Heavy D
 What About Us: Total
-Smile: None
+Smile: Scarface
 What's on Tonight: Montell Jordan
 Secret Garden: Bruce Springsteen
 The One I Gave My Heart To: Aaliyah
 Fly Like an Eagle: Seal
-No Time: None
+No Time: Lil' Kim
 Naked Eye: Luscious Jackson
 Macarena: Los del Río
 On & On: Erykah Badu
+Don't Wanna Be a Player: Joe
 I Shot the Sheriff: Warren G
-You Should Be Mine (Don't Waste Your Time): None
+You Should Be Mine (Don't Waste Your Time): Brian McKnight
 Don't Cry for Me Argentina: Madonna
+Someone: SWV
 Go the Distance: Michael Bolton
 One More Time: Real McCoy
+Butta Love: Next
 Coco Jambo: Mr. President
 Twisted: Keith Sweat
 Barbie Girl: Aqua
@@ -3276,7 +3398,7 @@ You're Makin' Me High: Toni Braxton
 You Must Love Me: Madonna
 Let It Go: Ray J
 Too Close: Next
-The Boy Is Mine: None
+The Boy Is Mine: Brandy
 You're Still the One: Shania Twain
 Truly Madly Deeply: Savage Garden
 How Do I Live: LeAnn Rimes
@@ -3293,7 +3415,7 @@ You Make Me Wanna...: Usher
 My Way: Usher
 My All: Mariah Carey
 The First Night: Monica
-Been Around the World: None
+Been Around the World: Puff Daddy
 Adia: Sarah McLachlan
 Crush: Jennifer Paige
 Everybody (Backstreet's Back): Backstreet Boys
@@ -3301,11 +3423,11 @@ I Don't Want to Miss a Thing: Aerosmith
 Body Bumpin' (Yippie-Yi-Yo): Public Announcement
 This Kiss: Faith Hill
 I Don't Ever Want to See You Again: Uncle Sam
-Let's Ride: None
+Let's Ride: Montell Jordan
 Sex and Candy: Marcy Playground
 Show Me Love: Robyn
 A Song for Mama: Boyz II Men
-What You Want: None
+What You Want: Mase
 Frozen: Madonna
 Gone till November: Wyclef Jean
 My Body: LSG
@@ -3314,65 +3436,71 @@ Deja Vu (Uptown Baby): Lord Tariq and Peter Gunz
 I Want You Back: 'N Sync
 When the Lights Go Out: Five
 They Don't Know: Jon B.
-Make 'Em Say Uhh!: None
-Make It Hot: None
+Make 'Em Say Uhh!: Master P
+Make It Hot: Nicole
 Never Ever: All Saints
-I Get Lonely: None
-Feel So Good: None
+I Get Lonely: Janet Jackson
+Feel So Good: Mase
+Say It: Voices of Theory
 Kiss the Rain: Billie Myers
-Come with Me: None
-Romeo and Juliet: None
-It's All About Me: None
+Come with Me: Puff Daddy
+Romeo and Juliet: Sylk-E. Fyne
+It's All About Me: Mýa
 I Will Come to You: Hanson
 One Week: Barenaked Ladies
 Swing My Way: K. P. & Envyi
 The Arms of the One Who Loves You: Xscape
-My Love Is the Shhh!: None
+My Love Is the Shhh!: Somethin' for the People
+Daydreamin': Tatyana Ali
 We're Not Making Love No More: Dru Hill
 Semi-Charmed Life: Third Eye Blind
 I Do: Lisa Loeb
-Lookin' at Me: None
+Lookin' at Me: Mase
 Looking Through Your Eyes: LeAnn Rimes
 Lately: Divine
 Quit Playing Games (With My Heart): Backstreet Boys
+I Still Love You: Next
 Time After Time: INOJ
 Are You Jimmy Ray?: Jimmy Ray
 Cruel Summer: Ace of Base
-I Got the Hook Up: None
-Victory: None
+I Got the Hook Up: Master P
+Victory: Puff Daddy
 Too Much: Spice Girls
-Ghetto Supastar (That Is What You Are): None
-How Deep Is Your Love: None
-Friend of Mine: None
+Ghetto Supastar (That Is What You Are): Pras Michel
+How Deep Is Your Love: Dru Hill
+Friend of Mine: Kelly Price
 Turn It Up (Remix)/Fire It Up: Busta Rhymes
 I'll Be: Edwin McCain
 Ray of Light: Madonna
 All for You: Sister Hazel
 Touch It: Monifah
-Money, Power & Respect: None
+Money, Power & Respect: The LOX
 Bitter Sweet Symphony: The Verve
 Dangerous: Busta Rhymes
 Spice Up Your Life: Spice Girls
 Because of You: 98 Degrees
 The Mummers' Dance: Loreena McKennitt
-All Cried Out: None
-Still Not a Player: None
+All Cried Out: Allure
+Still Not a Player: Big Pun
 The One I Gave My Heart To: Aaliyah
 Foolish Games: Jewel
 Love You Down: INOJ
-Do for Love: None
-Raise the Roof: None
-The Party Continues: None
-Sock It 2 Me: None
+Do for Love: 2Pac
+Raise the Roof: Luke
+Heaven: Nu Flavor
+The Party Continues: Jermaine Dupri
+Sock It 2 Me: Missy Elliott
+Butta Love: Next
 A Rose Is Still a Rose: Aretha Franklin
 4 Seasons of Loneliness: Boyz II Men
 Father: LL Cool J
+Thinkin' Bout It: Gerald Levert
 Nobody's Supposed to Be Here: Deborah Cox
 Westside: TQ
 Believe: Cher
 No Scrubs: TLC
 Angel of Mine: Monica
-Heartbreak Hotel: None
+Heartbreak Hotel: Whitney Houston
 ...Baby One More Time: Britney Spears
 Kiss Me: Sixpence None the Richer
 Genie in a Bottle: Christina Aguilera
@@ -3384,10 +3512,10 @@ If You Had My Love: Jennifer Lopez
 Slide: Goo Goo Dolls
 Have You Ever?: Brandy
 I Want It That Way: Backstreet Boys
-I'm Your Angel: None
+I'm Your Angel: R. Kelly
 All Star: Smash Mouth
 Angel: Sarah McLachlan
-Smooth: None
+Smooth: Santana
 Unpretty: TLC
 Bills, Bills, Bills: Destiny's Child
 Save Tonight: Eagle-Eye Cherry
@@ -3395,19 +3523,19 @@ Last Kiss: Pearl Jam
 Fortunate: Maxwell
 All I Have to Give: Backstreet Boys
 Bailamos: Enrique Iglesias
-What's It Gonna Be?!: None
+What's It Gonna Be?!: Busta Rhymes
 What It's Like: Everlast
 Fly Away: Lenny Kravitz
 Someday: Sugar Ray
 Lately: Divine
 That Don't Impress Me Much: Shania Twain
-Wild Wild West: None
+Wild Wild West: Will Smith
 Scar Tissue: Red Hot Chili Peppers
-Heartbreaker: None
+Heartbreaker: Mariah Carey
 I Still Believe: Mariah Carey
 The Hardest Thing: 98 Degrees
 Summer Girls: LFO
-Can I Get A...: None
+Can I Get A...: Jay-Z
 Jumper: Third Eye Blind
 Doo Wop (That Thing): Lauryn Hill
 Mambo No. 5: Lou Bega
@@ -3415,7 +3543,7 @@ Sweet Lady: Tyrese
 It's Not Right but It's Okay: Whitney Houston
 (God Must Have Spent) A Little More Time on You: 'N Sync
 Lullaby: Shawn Mullins
-Anywhere: None
+Anywhere: 112
 Tell Me It's Real: K-Ci & JoJo
 Back 2 Good: Matchbox 20
 808: Blaque
@@ -3423,16 +3551,17 @@ She's So High: Tal Bachman
 She's All I Ever Had: Ricky Martin
 Miami: Will Smith
 Hands: Jewel
-Who Dat: None
+Who Dat: JT Money
 Please Remember Me: Tim McGraw
 From This Moment On: Shania Twain
 Love Like This: Faith Evans
 You: Jesse Powell
-Trippin': None
+Trippin': Total
+If You: Silk
 Ex-Factor: Lauryn Hill
 Give It to You: Jordan Knight
 Black Balloon: Goo Goo Dolls
-Spend My Life with You: None
+Spend My Life with You: Eric Benét
 These Are the Times: Dru Hill
 I Don't Want to Miss a Thing: Mark Chesnutt
 I Do (Cherish You): 98 Degrees
@@ -3441,13 +3570,14 @@ I Will Remember You: Sarah McLachlan
 Chanté's Got a Man: Chanté Moore
 Happily Ever After: Case
 My Love Is Your Love: Whitney Houston
-All Night Long: None
-Back That Azz Up: None
+All Night Long: Faith Evans
+Back That Azz Up: Juvenile
 Almost Doesn't Count: Brandy
 Man! I Feel Like a Woman!: Shania Twain
 Steal My Sunshine: Len
 I Need to Know: Marc Anthony
 So Anxious: Ginuwine
+Faded Pictures: Case
 Back at One: Brian McKnight
 When a Woman's Fed Up: R. Kelly
 How Forever Feels: Kenny Chesney
@@ -3456,20 +3586,20 @@ Sometimes: Britney Spears
 Ghetto Cowboy: Mo Thugs
 Out of My Head: Fastball
 Hard Knock Life (Ghetto Anthem): Jay-Z
-Jamboree: None
-Take Me There: None
+Jamboree: Naughty by Nature
+Take Me There: Blackstreet
 Stay the Same: Joey McIntyre
 A Lesson in Leavin': Jo Dee Messina
 Iris: Goo Goo Dolls
-Satisfy You: None
+Satisfy You: Puff Daddy
 Better Days (And the Bottom Drops Out): Citizen King
-Music of My Heart: None
+Music of My Heart: 'N Sync
 Write This Down: George Strait
-When You Believe: None
-(God Must Have Spent) A Little More Time on You: None
+When You Believe: Whitney Houston
+(God Must Have Spent) A Little More Time on You: Alabama
 Breathe: Faith Hill
-Smooth: None
-Maria Maria: None
+Smooth: Santana
+Maria Maria: Santana
 I Wanna Know: Joe
 Everything You Want: Vertical Horizon
 Say My Name: Destiny's Child
@@ -3498,7 +3628,7 @@ That's The Way It Is: Celine Dion
 Country Grammar (Hot Shit): Nelly
 Bring It All to Me: Blaque
 Show Me the Meaning of Being Lonely: Backstreet Boys
-Hot Boyz: None
+Hot Boyz: Missy Elliott
 Back Here: BBMak
 It Feels So Good: Sonique
 Absolutely (Story of a Girl): Nine Days
@@ -3511,12 +3641,12 @@ The Way You Love Me: Faith Hill
 I Turn To You: Christina Aguilera
 Never Let You Go: Third Eye Blind
 I Need You: LeAnn Rimes
-Thank God I Found You: None
+Thank God I Found You: Mariah Carey
 Let's Get Married: Jagged Edge
 My Love Is Your Love: Whitney Houston
 Then The Morning Comes: Smash Mouth
 Blue (Da Ba Dee): Eiffel 65
-Desert Rose: None
+Desert Rose: Sting
 The Real Slim Shady: Eminem
 Most Girls: Pink
 Wifey: Next
@@ -3526,23 +3656,23 @@ I Wanna Love You Forever: Jessica Simpson
 Give Me Just One Night (Una Noche): 98 Degrees
 Take a Picture: Filter
 Otherside: Red Hot Chili Peppers
-Big Pimpin': None
+Big Pimpin': Jay-Z
 A Puro Dolor: Son by Four
 He Can't Love U: Jagged Edge
 Separated: Avant
 I Wish: Carl Thomas
 U Know What's Up: Donell Jones
-Faded: None
+Faded: soulDecision
 Only God Knows Why: Kid Rock
 Shake Ya Ass: Mystikal
 Bag Lady: Erykah Badu
 Meet Virginia: Train
 Party Up (Up in Here): DMX
 Case of the Ex: Mýa
-Forgot About Dre: None
+Forgot About Dre: Dr. Dre
 That's the Way: Jo Dee Messina
 Swear It Again: Westlife
-The Next Episode: None
+The Next Episode: Dr. Dre
 From the Bottom of My Broken Heart: Britney Spears
 Crash and Burn: Savage Garden
 Yes!: Chad Brock
@@ -3551,7 +3681,7 @@ Where I Wanna Be: Donell Jones
 How Do You Like Me Now?!: Toby Keith
 My Best Friend: Tim McGraw
 Broadway: Goo Goo Dolls
-What'chu Like: None
+What'chu Like: Da Brat
 Don't Think I'm Not: Kandi
 I Hope You Dance: Lee Ann Womack
 Better Off Alone: Alice Deejay
@@ -3560,7 +3690,7 @@ What About Now: Lonestar
 I Like It: Sammie
 24/7: Kevon Edmonds
 Girl on TV: LFO
-Bounce with Me: None
+Bounce with Me: Lil' Bow Wow
 Cowboy Take Me Away: Dixie Chicks
 I Don't Wanna: Aaliyah
 Independent Women: Destiny's Child
@@ -3571,35 +3701,35 @@ Hanging by a Moment: Lifehouse
 Fallin': Alicia Keys
 All for You: Janet Jackson
 Drops of Jupiter (Tell Me): Train
-I'm Real: None
+I'm Real: Jennifer Lopez
 If You're Gone: Matchbox Twenty
-Let Me Blow Ya Mind: None
+Let Me Blow Ya Mind: Eve
 Thank You: Dido
 Again: Lenny Kravitz
 Independent Women: Destiny's Child
 Hit 'Em Up Style (Oops!): Blu Cantrell
-It Wasn't Me: None
-Stutter: None
+It Wasn't Me: Shaggy
+Stutter: Joe
 It's Been Awhile: Staind
 U Remind Me: Usher
-Where the Party At: None
-Angel: None
-Ride wit Me: None
+Where the Party At: Jagged Edge
+Angel: Shaggy
+Ride wit Me: Nelly
 Follow Me: Uncle Kracker
 Peaches & Cream: 112
 Drive: Incubus
 What Would You Do?: City High
 Survivor: Destiny's Child
-Lady Marmalade: None
+Lady Marmalade: Christina Aguilera
 Ms. Jackson: OutKast
 Love Don't Cost a Thing: Jennifer Lopez
 The Way You Love Me: Faith Hill
 He Loves U Not: Dream
 Butterfly: Crazy Town
-Put It on Me: None
+Put It on Me: Ja Rule
 Family Affair: Mary J. Blige
 I Hope You Dance: Lee Ann Womack
-South Side: None
+South Side: Moby
 Don't Tell Me: Madonna
 Get Ur Freak On: Missy Elliott
 Crazy: K-Ci & JoJo
@@ -3611,7 +3741,7 @@ All or Nothing: O-Town
 Bootylicious: Destiny's Child
 I'm Like a Bird: Nelly Furtado
 Kryptonite: 3 Doors Down
-Fiesta: None
+Fiesta: R. Kelly
 When It's Over: Sugar Ray
 Jaded: Aerosmith
 Promise: Jagged Edge
@@ -3619,12 +3749,12 @@ Missing You: Case
 Differences: Ginuwine
 This I Promise You: 'N Sync
 Izzo (H.O.V.A.): Jay-Z
-Superwoman Pt. II: None
+Superwoman Pt. II: Lil' Mo
 Crazy for This Girl: Evan and Jaron
-Nobody Wants to Be Lonely: None
+Nobody Wants to Be Lonely: Ricky Martin
 I Just Wanna Love U (Give It 2 Me): Jay-Z
-One Minute Man: None
-Danger (Been So Long): None
+One Minute Man: Missy Elliott
+Danger (Been So Long): Mystikal
 Only Time: Enya
 I Do!!: Toya
 Never Had a Dream Come True: S Club 7
@@ -3645,16 +3775,17 @@ Beautiful Day: U2
 Austin: Blake Shelton
 Southern Hospitality: Ludacris
 Grown Men Don't Cry: Tim McGraw
-Livin' It Up: None
-Loverboy: None
-Contagious: None
+Livin' It Up: Ja Rule
+Loverboy: Mariah Carey
+Contagious: The Isley Brothers
 Who I Am: Jessica Andrews
-Music: None
+Music: Erick Sermon
 I Wanna Be Bad: Willa Ford
 Don't Happen Twice: Kenny Chesney
 One More Day: Diamond Rio
 I Wish: R. Kelly
 It's a Great Day to Be Alive: Travis Tritt
+I'm a Thug: Trick Daddy
 Here's to the Night: Eve 6
 You Shouldn't Kiss Me Like This: Toby Keith
 Get Over Yourself: Eden's Crush
@@ -3663,53 +3794,53 @@ So Fresh So Clean: Outkast
 E.I.: Nelly
 Be Like That: 3 Doors Down
 Most Girls: Pink
-Oochie Wally: None
+Oochie Wally: Nas
 Hero: Enrique Iglesias
 Hemorrhage (In My Hands): Fuel
 How You Remind Me: Nickelback
 Foolish: Ashanti
 Hot in Herre: Nelly
-Dilemma: None
+Dilemma: Nelly
 Wherever You Will Go: The Calling
 A Thousand Miles: Vanessa Carlton
 In the End: Linkin Park
-What's Luv?: None
+What's Luv?: Fat Joe
 U Got It Bad: Usher
 Blurry: Puddle of Mudd
 Complicated: Avril Lavigne
-Always on Time: None
-Ain't It Funny: None
+Always on Time: Ja Rule
+Ain't It Funny: Jennifer Lopez
 The Middle: Jimmy Eat World
-I Need a Girl (Part One): None
+I Need a Girl (Part One): P. Diddy
 U Don't Have to Call: Usher
 Family Affair: Mary J. Blige
-I Need a Girl (Part Two): None
-Gangsta Lovin': None
+I Need a Girl (Part Two): P. Diddy
+Gangsta Lovin': Eve
 My Sacrifice: Creed
 Without Me: Eminem
 Hero: Enrique Iglesias
 All You Wanted: Michelle Branch
 Get the Party Started: Pink
-Hero: None
+Hero: Chad Kroeger
 Wasting My Time: Default
 One Last Breath: Creed
 Whenever, Wherever: Shakira
-I'm Gonna Be Alright: None
-Oh Boy: None
-Heaven: None
-Hey Baby: None
-Girlfriend: None
+I'm Gonna Be Alright: Jennifer Lopez
+Oh Boy: Cam'ron
+Heaven: DJ Sammy
+Hey Baby: No Doubt
+Girlfriend: 'N Sync
 Just a Friend 2002: Mario
 Soak Up the Sun: Sheryl Crow
 Don't Let Me Get Me: Pink
 Nothin': N.O.R.E.
-Oops (Oh My): None
+Oops (Oh My): Tweet
 A Moment Like This: Kelly Clarkson
-Addictive: None
+Addictive: Truth Hurts
 Happy: Ashanti
 No Such Thing: John Mayer
 Just Like a Pill: Pink
-Down 4 U: None
+Down 4 U: Ja Rule
 Can't Get You Out of My Head: Kylie Minogue
 Superman (It's Not Easy): Five for Fighting
 Cleanin' Out My Closet: Eminem
@@ -3718,41 +3849,42 @@ Lights, Camera, Action!: Mr. Cheeks
 Still Fly: Big Tymers
 A Woman's Worth: Alicia Keys
 7 Days: Craig David
-Hey Ma: None
+Hey Ma: Cam'ron
 Work It: Missy Elliott
-Move Bitch: None
+Move Bitch: Ludacris
 Can't Fight the Moonlight: LeAnn Rimes
 Escape: Enrique Iglesias
 More than a Woman: Aaliyah
 Hella Good: No Doubt
 I Love You: Faith Evans
 Gotta Get thru This: Daniel Bedingfield
-Pass the Courvoisier, Part II: None
+Pass the Courvoisier, Part II: Busta Rhymes
 Lose Yourself: Eminem
 Butterflies: Michael Jackson
 What About Us?: Brandy
 Underneath Your Clothes: Shakira
-Rainy Dayz: None
+Rainy Dayz: Mary J. Blige
 Differences: Ginuwine
-If I Could Go!: None
-The Whole World: None
-Underneath It All: None
-Caramel: None
+If I Could Go!: Angie Martinez
+The Whole World: Outkast
+Underneath It All: No Doubt
+Caramel: City High
 Luv U Better: LL Cool J
 Gimme the Light: Sean Paul
 Gone: 'N Sync
-Livin' It Up: None
+Livin' It Up: Ja Rule
 Rollout (My Business): Ludacris
 Here Is Gone: Goo Goo Dolls
 No More Drama: Mary J. Blige
 Days Go By: Dirty Vegas
 Baby: Ashanti
 The Good Stuff: Kenny Chesney
-We Thuggin': None
+We Thuggin': Fat Joe
 Good Morning Beautiful: Steve Holy
 Rock the Boat: Aaliyah
 Drive (For Daddy Gene): Alan Jackson
 Standing Still: Jewel
+Anything: Jaheim
 Full Moon: Brandy
 Uh Huh: B2K
 A New Day Has Come: Celine Dion
@@ -3768,84 +3900,85 @@ I Do!!: Toya
 In da Club: 50 Cent
 Ignition (Remix): R. Kelly
 Get Busy: Sean Paul
-Crazy in Love: None
+Crazy in Love: Beyoncé
 When I'm Gone: 3 Doors Down
 Unwell: Matchbox Twenty
 Right Thurr: Chingy
 Miss You: Aaliyah
-Picture: None
-Bring Me to Life: None
-Get Low: None
-Baby Boy: None
-Shake Ya Tailfeather: None
-21 Questions: None
-All I Have: None
+Picture: Kid Rock
+Bring Me to Life: Evanescence
+Get Low: Lil Jon & The East Side Boyz
+Baby Boy: Beyoncé
+Shake Ya Tailfeather: Nelly
+21 Questions: 50 Cent
+All I Have: Jennifer Lopez
 Beautiful: Christina Aguilera
-I Know What You Want: None
+I Know What You Want: Busta Rhymes
 I'm with You: Avril Lavigne
-Drift Away: None
-Magic Stick: None
+Drift Away: Uncle Kracker
+Magic Stick: Lil' Kim
 P.I.M.P.: 50 Cent
-Bump, Bump, Bump: None
-Into You: None
-Can't Let You Go: None
-Mesmerize: None
+Bump, Bump, Bump: B2K
+Into You: Fabolous
+Can't Let You Go: Fabolous
+Mesmerize: Ja Rule
 Where Is the Love?: The Black Eyed Peas
-The Game of Love: None
+The Game of Love: Santana
 Lose Yourself: Eminem
 Rock wit U (Awww Baby): Ashanti
 Cry Me a River: Justin Timberlake
 How You Gonna Act Like That: Tyrese
 Rock Your Body: Justin Timberlake
 No Letting Go: Wayne Wonder
-Frontin': None
+Frontin': Pharrell
 Landslide: Dixie Chicks
 Work It: Missy Elliott
-'03 Bonnie & Clyde: None
-Don't Mess with My Man: None
+'03 Bonnie & Clyde: Jay-Z
+Don't Mess with My Man: Nivea
 So Gone: Monica
-Air Force Ones: None
+Air Force Ones: Nelly
 Never Leave You (Uh Oooh, Uh Oooh): Lumidee
-Beautiful: None
-Gossip Folks: None
+Beautiful: Snoop Dogg
+Gossip Folks: Missy Elliott
 Miss Independent: Kelly Clarkson
 Calling All Angels: Train
-Damn!: None
+Damn!: YoungBloodZ
 This Is the Night: Clay Aiken
 Your Body Is a Wonderland: John Mayer
 Headstrong: Trapt
 In Those Jeans: Ginuwine
-Stand Up: None
+Stand Up: Ludacris
 The Remedy (I Won't Worry): Jason Mraz
-Why Don't You & I: None
+Why Don't You & I: Santana
 Excuse Me Miss: Jay-Z
-Jenny from the Block: None
+Jenny from the Block: Jennifer Lopez
 Are You Happy Now?: Michelle Branch
 Forever and for Always: Shania Twain
 I Can: Nas
-Underneath It All: None
+Underneath It All: No Doubt
 If You're Not the One: Daniel Bedingfield
 Thoia Thoing: R. Kelly
 Here Without You: 3 Doors Down
 Wanksta: 50 Cent
 My Love Is Like...Wo: Mýa
-It's Five O'Clock Somewhere: None
+It's Five O'Clock Somewhere: Alan Jackson
 Like Glue: Sean Paul
-Can't Hold Us Down: None
+Can't Hold Us Down: Christina Aguilera
 My Front Porch Looking In: Lonestar
 Angel: Amanda Perez
 She Hates Me: Puddle of Mudd
 Don't Wanna Try: Frankie J
-The Jump Off: None
+The Jump Off: Lil' Kim
 Intuition: Jewel
-Hell Yeah: None
-Beer for My Horses: None
-Holidae In: None
-Suga Suga: None
-Love of My Life (An Ode to Hip-Hop): None
+Hell Yeah: Ginuwine
+Beer for My Horses: Toby Keith
+Holidae In: Chingy
+Suga Suga: Baby Bash
+Love of My Life (An Ode to Hip-Hop): Erykah Badu
 Fighter: Christina Aguilera
 Thugz Mansion: 2Pac
 Clocks: Coldplay
+Put That Woman First: Jaheim
 Rain on Me: Ashanti
 19 Somethin': Mark Wills
 Can't Stop, Won't Stop: Young Gunz
@@ -3858,46 +3991,46 @@ No Shoes, No Shirt, No Problems: Kenny Chesney
 Come Over: Aaliyah
 Sick of Being Lonely: Field Mob
 Step in the Name of Love: R. Kelly
-I Want You: None
+I Want You: Thalía
 Like a Stone: Audioslave
 Don't Know Why: Norah Jones
 Superman: Eminem
 Real Good Man: Tim McGraw
 Say Yes: Floetry
-Yeah!: None
+Yeah!: Usher
 Burn: Usher
 If I Ain't Got You: Alicia Keys
 This Love: Maroon 5
-The Way You Move: None
+The Way You Move: Outkast
 The Reason: Hoobastank
-I Don't Wanna Know: None
+I Don't Wanna Know: Mario Winans
 Hey Ya!: Outkast
-Goodies: None
+Goodies: Ciara
 Lean Back: Terror Squad
 Tipsy: J-Kwon
 Confessions Part II: Usher
-Slow Motion: None
+Slow Motion: Juvenile
 Freek-a-Leek: Petey Pablo
 Here Without You: 3 Doors Down
-Slow Jamz: None
+Slow Jamz: Twista
 Someday: Nickelback
 Naughty Girl: Beyoncé
 My Immortal: Evanescence
-Sunshine: None
+Sunshine: Lil' Flip
 Dirt Off Your Shoulder: Jay-Z
 Move Ya Body: Nina Sky
 Dip It Low: Christina Milian
-My Boo: None
-One Call Away: None
+My Boo: Usher
+One Call Away: Chingy
 Me, Myself and I: Beyoncé
 Turn Me On: Kevin Lyttle
 The First Cut Is the Deepest: Sheryl Crow
 You Don't Know My Name: Alicia Keys
-My Place: None
+My Place: Nelly
 Overnight Celebrity: Twista
-Hotel: None
+Hotel: Cassidy
 Numb: Linkin Park
-Diary: None
+Diary: Alicia Keys
 She Will Be Loved: Maroon 5
 White Flag: Dido
 Heaven: Los Lonely Boys
@@ -3907,15 +4040,15 @@ Leave (Get Out): JoJo
 Milkshake: Kelis
 Splash Waterfalls: Ludacris
 Jesus Walks: Kanye West
-Locked Up: None
-Stand Up: None
-Suga Suga: None
-All Falls Down: None
+Locked Up: Akon
+Stand Up: Ludacris
+Suga Suga: Baby Bash
+All Falls Down: Kanye West
 Toxic: Britney Spears
-Salt Shaker: None
+Salt Shaker: Ying Yang Twins
 With You: Jessica Simpson
 Meant to Live: Switchfoot
-I Like That: None
+I Like That: Houston
 Sorry 2004: Ruben Studdard
 My Happy Ending: Avril Lavigne
 On Fire: Lloyd Banks
@@ -3923,43 +4056,43 @@ Roses: Outkast
 Walked Outta Heaven: Jagged Edge
 Lose My Breath: Destiny's Child
 My Band: D12
-I'm Still in Love with You: None
+I'm Still in Love with You: Sean Paul
 Through the Wire: Kanye West
 Why?: Jadakiss
 Fuck It (I Don't Want You Back): Eamon
-Read Your Mind: None
+Read Your Mind: Avant
 Game Over (Flip): Lil' Flip
 One Thing: Finger Eleven
 Headsprung: LL Cool J
-Damn!: None
-Baby Boy: None
-Get Low: None
-Drop It Like It's Hot: None
+Damn!: YoungBloodZ
+Baby Boy: Beyoncé
+Get Low: Lil Jon & the East Side Boyz
+Drop It Like It's Hot: Snoop Dogg
 U Should've Known Better: Monica
 On the Way Down: Ryan Cabrera
 Breakaway: Kelly Clarkson
-Why Don't You & I: None
+Why Don't You & I: Santana
 Are You Gonna Be My Girl: Jet
 100 Years: Five for Fighting
 Step in the Name of Love: R. Kelly
 Breaking the Habit: Linkin Park
-Gigolo: None
+Gigolo: Nick Cannon
 Live Like You Were Dying: Tim McGraw
 Remember When: Alan Jackson
 Everytime: Britney Spears
-Southside: None
+Southside: Lloyd
 Dude: Beenie Man
-Wanna Get to Know You: None
-Holidae In: None
+Wanna Get to Know You: G-Unit
+Holidae In: Chingy
 Let's Get It Started: The Black Eyed Peas
-When the Sun Goes Down: None
+When the Sun Goes Down: Kenny Chesney
 American Soldier: Toby Keith
 Change Clothes: Jay-Z
 Don't Tell Me: Avril Lavigne
 You'll Think of Me: Keith Urban
 Happy People: R. Kelly
 Hey Mama: The Black Eyed Peas
-Over and Over: None
+Over and Over: Nelly
 Redneck Woman: Gretchen Wilson
 Just Lose It: Eminem
 Letters from Home: John Michael Montgomery
@@ -3968,71 +4101,71 @@ We Belong Together: Mariah Carey
 Hollaback Girl: Gwen Stefani
 Let Me Love You: Mario
 Since U Been Gone: Kelly Clarkson
-1, 2 Step: None
-Gold Digger: None
+1, 2 Step: Ciara
+Gold Digger: Kanye West
 Boulevard of Broken Dreams: Green Day
-Candy Shop: None
-Don't Cha: None
+Candy Shop: 50 Cent
+Don't Cha: The Pussycat Dolls
 Behind These Hazel Eyes: Kelly Clarkson
 Disco Inferno: 50 Cent
 You and Me: Lifehouse
 Don't Phunk with My Heart: The Black Eyed Peas
-Lose Control: None
+Lose Control: Missy Elliott
 Shake It Off: Mariah Carey
 Mr. Brightside: The Killers
 Just a Lil Bit: 50 Cent
 Pon de Replay: Rihanna
-How We Do: None
+How We Do: The Game
 Beverly Hills: Weezer
-Oh: None
+Oh: Ciara
 Lonely No More: Rob Thomas
-Drop It Like It's Hot: None
-Hate It or Love It: None
-Lovers & Friends: None
-Soldier: None
+Drop It Like It's Hot: Snoop Dogg
+Hate It or Love It: The Game
+Lovers & Friends: Lil Jon
+Soldier: Destiny's Child
 Breakaway: Kelly Clarkson
 Switch: Will Smith
-Let Me Hold You: None
-Like You: None
-Rich Girl: None
+Let Me Hold You: Bow Wow
+Like You: Bow Wow
+Rich Girl: Gwen Stefani
 My Humps: The Black Eyed Peas
-Obsession (No Es Amor): None
+Obsession (No Es Amor): Frankie J
 Caught Up: Usher
-Listen to Your Heart: None
+Listen to Your Heart: DHT
 Scars: Papa Roach
 Feel Good Inc.: Gorillaz
 Let Me Go: 3 Doors Down
 Holiday: Green Day
 Sugar, We're Goin Down: Fall Out Boy
 Grind with Me: Pretty Ricky
-Run It!: None
+Run It!: Chris Brown
 Photograph: Nickelback
 Lonely: Akon
 Collide: Howie Day
 Wake Me Up When September Ends: Green Day
 Slow Down: Bobby Valentino
-Over and Over: None
-Some Cut: None
-Get It Poppin': None
+Over and Over: Nelly
+Some Cut: Trillville
+Get It Poppin': Fat Joe
 Play: David Banner
-Soul Survivor: None
-Pimpin' All Over the World: None
-My Boo: None
-Sugar (Gimme Some): None
+Soul Survivor: Young Jeezy
+Pimpin' All Over the World: Ludacris
+My Boo: Usher
+Sugar (Gimme Some): Trick Daddy
 Karma: Alicia Keys
 Speed of Sound: Coldplay
 I Don't Want to Be: Gavin DeGraw
 Mockingbird: Eminem
-La Tortura: None
+La Tortura: Shakira
 She Will Be Loved: Maroon 5
-Baby I'm Back: None
+Baby I'm Back: Baby Bash
 Wait (The Whisper Song): Ying Yang Twins
 Incomplete: Backstreet Boys
 Bring Em Out: T.I.
 Cater 2 U: Destiny's Child
 1 Thing: Amerie
 Best of You: Foo Fighters
-It's Like That: None
+It's Like That: Mariah Carey
 Goin' Crazy: Natalie
 Inside Your Heaven: Carrie Underwood
 Because of You: Kelly Clarkson
@@ -4041,14 +4174,14 @@ Your Body: Pretty Ricky
 Beautiful Soul: Jesse McCartney
 Cool: Gwen Stefani
 Get Back: Ludacris
-Outta Control: None
+Outta Control: 50 Cent
 U Don't Know Me: T.I.
 These Words: Natasha Bedingfield
 Don't Lie: The Black Eyed Peas
 Get Right: Jennifer Lopez
 Daughters: John Mayer
 As Good as I Once Was: Toby Keith
-Girlfight: None
+Girlfight: Brooke Valentine
 Lose My Breath: Destiny's Child
 Ordinary People: John Legend
 We Be Burnin': Sean Paul
@@ -4056,38 +4189,38 @@ Just the Girl: The Click Five
 True: Ryan Cabrera
 O: Omarion
 Back Then: Mike Jones
-Numb/Encore: None
-Wonderful: None
+Numb/Encore: Jay-Z
+Wonderful: Ja Rule
 I'm Sprung: T-Pain
 Chariot: Gavin DeGraw
-U Already Know: None
+U Already Know: 112
 Mississippi Girl: Faith Hill
 Number One Spot: Ludacris
-Give Me That: None
+Give Me That: Webbie
 Bad Day: Daniel Powter
 Temperature: Sean Paul
-Promiscuous: None
+Promiscuous: Nelly Furtado
 You're Beautiful: James Blunt
-Hips Don't Lie: None
+Hips Don't Lie: Shakira
 Unwritten: Natasha Bedingfield
 Crazy: Gnarls Barkley
-Ridin': None
-SexyBack: None
-Check on It: None
+Ridin': Chamillionaire
+SexyBack: Justin Timberlake
+Check on It: Beyoncé
 Be Without You: Mary J. Blige
-Grillz: None
+Grillz: Nelly
 Over My Head (Cable Car): The Fray
 Me & U: Cassie
-Buttons: None
-Run It!: None
+Buttons: Pussycat Dolls
+Run It!: Chris Brown
 So Sick: Ne-Yo
-It's Goin' Down: None
+It's Goin' Down: Yung Joc
 SOS: Rihanna
 I Write Sins Not Tragedies: Panic! at the Disco
 Move Along: The All-American Rejects
 London Bridge: Fergie
 Dani California: Red Hot Chili Peppers
-Snap Yo Fingers: None
+Snap Yo Fingers: Lil Jon
 Lean wit It, Rock wit It: Dem Franchize Boyz
 What Hurts the Most: Rascal Flatts
 How to Save a Life: The Fray
@@ -4097,16 +4230,16 @@ Lips of an Angel: Hinder
 Everytime We Touch: Cascada
 Ain't No Other Man: Christina Aguilera
 Dance, Dance: Fall Out Boy
-Gold Digger: None
-Money Maker: None
-Ms. New Booty: None
-(When You Gonna) Give It Up to Me: None
+Gold Digger: Kanye West
+Money Maker: Ludacris
+Ms. New Booty: Bubba Sparxxx
+(When You Gonna) Give It Up to Me: Sean Paul
 Photograph: Nickelback
 Because of You: Kelly Clarkson
 Stickwitu: Pussycat Dolls
-I'm 'n Luv (wit a Stripper): None
+I'm 'n Luv (wit a Stripper): T-Pain
 My Humps: The Black Eyed Peas
-Where'd You Go: None
+Where'd You Go: Fort Minor
 Yo (Excuse Me Miss): Chris Brown
 Walk Away: Kelly Clarkson
 Laffy Taffy: D4L
@@ -4115,47 +4248,47 @@ Dirty Little Secret: The All-American Rejects
 Savin' Me: Nickelback
 Don't Forget About Us: Mariah Carey
 Sexy Love: Ne-Yo
-U and Dat: None
+U and Dat: E-40
 Far Away: Nickelback
 What's Left of Me: Nick Lachey
-So What: None
-Do It to It: None
+So What: Field Mob
+Do It to It: Cherish
 Black Horse and the Cherry Tree: KT Tunstall
 There It Go (The Whistle Song): Juelz Santana
-Shoulder Lean: None
-Unpredictable: None
-My Love: None
-Shake That: None
-Pullin' Me Back: None
-Bossy: None
+Shoulder Lean: Young Dro
+Unpredictable: Jamie Foxx
+My Love: Justin Timberlake
+Shake That: Eminem
+Pullin' Me Back: Chingy
+Bossy: Kelis
 Chain Hang Low: Jibbs
-Smack That: None
+Smack That: Akon
 One Wish: Ray J
 Sugar, We're Goin Down: Fall Out Boy
-Gimme That: None
+Gimme That: Chris Brown
 I Know You See It: Yung Joc
-Who Says You Can't Go Home: None
+Who Says You Can't Go Home: Bon Jovi
 Too Little Too Late: JoJo
 Touch It: Busta Rhymes
 Rompe: Daddy Yankee
-Déjà Vu: None
+Déjà Vu: Beyoncé
 Life Is a Highway: Rascal Flatts
 Call Me When You're Sober: Evanescence
 Jesus, Take the Wheel: Carrie Underwood
-Show Stopper: None
-Get Up: None
+Show Stopper: Danity Kane
+Get Up: Ciara
 We Be Burnin': Sean Paul
 Hate Me: Blue October
 You and Me: Lifehouse
-Beep: None
-I Think They Like Me: None
+Beep: Pussycat Dolls
+I Think They Like Me: Dem Franchize Boyz
 Say Goodbye: Chris Brown
 Waiting on the World to Change: John Mayer
-Soul Survivor: None
+Soul Survivor: Young Jeezy
 Pump It: The Black Eyed Peas
 When I'm Gone: Eminem
 Hung Up: Madonna
-Stay Fly: None
+Stay Fly: Three 6 Mafia
 Love: Keyshia Cole
 When You're Mad: Ne-Yo
 Why You Wanna: T.I.
@@ -4165,116 +4298,116 @@ I'm Sprung: T-Pain
 Do I Make You Proud: Taylor Hicks
 For You I Will (Confidence): Teddy Geiger
 Irreplaceable: Beyoncé
-Umbrella: None
-The Sweet Escape: None
+Umbrella: Rihanna
+The Sweet Escape: Gwen Stefani
 Big Girls Don't Cry: Fergie
-Buy U a Drank (Shawty Snappin'): None
+Buy U a Drank (Shawty Snappin'): T-Pain
 Before He Cheats: Carrie Underwood
 Hey There Delilah: Plain White T's
-I Wanna Love You: None
+I Wanna Love You: Akon
 Say It Right: Nelly Furtado
-Glamorous: None
+Glamorous: Fergie
 Don't Matter: Akon
 Girlfriend: Avril Lavigne
 Makes Me Wonder: Maroon 5
 Party Like a Rockstar: Shop Boyz
-Smack That: None
+Smack That: Akon
 This Is Why I'm Hot: Mims
 It's Not Over: Daughtry
-The Way I Are: None
-Fergalicious: None
+The Way I Are: Timbaland
+Fergalicious: Fergie
 Crank That (Soulja Boy): Soulja Boy Tell 'Em
-Give It to Me: None
+Give It to Me: Timbaland
 What Goes Around... Comes Around: Justin Timberlake
-Cupid's Chokehold: None
+Cupid's Chokehold: Gym Class Heroes
 How to Save a Life: The Fray
 Home: Daughtry
-My Love: None
+My Love: Justin Timberlake
 Stronger: Kanye West
 We Fly High: Jim Jones
 U + Ur Hand: Pink
 Walk It Out: Unk
 Beautiful Girls: Sean Kingston
 This Ain't a Scene, It's an Arms Race: Fall Out Boy
-Bartender: None
+Bartender: T-Pain
 Pop, Lock & Drop It: Huey
-Runaway Love: None
+Runaway Love: Ludacris
 Rockstar: Nickelback
 Thnks fr th Mmrs: Fall Out Boy
 What I've Done: Linkin Park
 Summer Love: Justin Timberlake
-You: None
+You: Lloyd
 Wait for You: Elliott Yamin
-Last Night: None
-Make It Rain: None
-Make Me Better: None
-Ice Box: None
+Last Night: Diddy
+Make It Rain: Fat Joe
+Make Me Better: Fabolous
+Ice Box: Omarion
 Lips of an Angel: Hinder
 Waiting on the World to Change: John Mayer
 Lost Without U: Robin Thicke
-I'm a Flirt: None
+I'm a Flirt: R. Kelly
 If Everyone Cared: Nickelback
 Get It Shawty: Lloyd
 Face Down: The Red Jumpsuit Apparatus
 The Way I Live: Baby Boy da Prince
-Shortie Like Mine: None
+Shortie Like Mine: Bow Wow
 It Ends Tonight: The All-American Rejects
 A Bay Bay: Hurricane Chris
 Because of You: Ne-Yo
-I Tried: None
+I Tried: Bone Thugs-n-Harmony
 Welcome to the Black Parade: My Chemical Romance
-Shawty: None
+Shawty: Plies
 Chasing Cars: Snow Patrol
-Beautiful Liar: None
-SexyBack: None
+Beautiful Liar: Beyoncé
+SexyBack: Justin Timberlake
 Keep Holding On: Avril Lavigne
-Let It Go: None
-Apologize: None
+Let It Go: Keyshia Cole
+Apologize: Timbaland
 Bubbly: Colbie Caillat
 Like a Boy: Ciara
 Who Knew: Pink
 Never Again: Kelly Clarkson
 Promise: Ciara
 Bed: J. Holiday
-Throw Some D's: None
+Throw Some D's: Rich Boy
 Rehab: Amy Winehouse
 Big Shit Poppin' (Do It): T.I.
 No One: Alicia Keys
 The Great Escape: Boys Like Girls
 2 Step: Unk
-Walk Away (Remember Me): None
-Go Getta: None
+Walk Away (Remember Me): Paula DeAnda
+Go Getta: Young Jeezy
 Here (In Your Arms): Hellogoodbye
 On the Hotline: Pretty Ricky
 Wind It Up: Gwen Stefani
-Cyclone: None
-Break It Off: None
+Cyclone: Baby Bash
+Break It Off: Rihanna
 First Time: Lifehouse
-Ayo Technology: None
-Outta My System: None
+Ayo Technology: 50 Cent
+Outta My System: Bow Wow
 Teardrops on My Guitar: Taylor Swift
 Shut Up and Drive: Rihanna
 Snow (Hey Oh): Red Hot Chili Peppers
-Money Maker: None
-Kiss Kiss: None
+Money Maker: Ludacris
+Kiss Kiss: Chris Brown
 Far Away: Nickelback
-Rock Yo Hips: None
+Rock Yo Hips: Crime Mob
 LoveStoned: Justin Timberlake
 Better than Me: Hinder
 Paralyzer: Finger Eleven
-That's That: None
-Same Girl: None
-Low: None
+That's That: Snoop Dogg
+Same Girl: R. Kelly
+Low: Flo Rida
 Bleeding Love: Leona Lewis
 No One: Alicia Keys
-Lollipop: None
-Apologize: None
-No Air: None
+Lollipop: Lil Wayne
+Apologize: Timbaland
+No Air: Jordin Sparks
 Love Song: Sara Bareilles
-Love in This Club: None
+Love in This Club: Usher
 With You: Chris Brown
 Forever: Chris Brown
-Sexy Can I: None
+Sexy Can I: Ray J
 Take a Bow: Rihanna
 Viva la Vida: Coldplay
 I Kissed a Girl: Katy Perry
@@ -4282,17 +4415,17 @@ Whatever You Like: T.I.
 Disturbia: Rihanna
 Don't Stop the Music: Rihanna
 Pocketful of Sunshine: Natasha Bedingfield
-Kiss Kiss: None
+Kiss Kiss: Chris Brown
 Closer: Ne-Yo
 Bubbly: Colbie Caillat
 Touch My Body: Mariah Carey
-4 Minutes: None
+4 Minutes: Madonna
 So What: Pink
 Paralyzer: Finger Eleven
 Clumsy: Fergie
 I'm Yours: Jason Mraz
 Leavin': Jesse McCartney
-Dangerous: None
+Dangerous: Kardinal Offishall
 Tattoo: Jordin Sparks
 See You Again: Miley Cyrus
 Shake It: Metro Station
@@ -4300,73 +4433,73 @@ Stop and Stare: OneRepublic
 Take You There: Sean Kingston
 Paper Planes: M.I.A.
 Hot n Cold: Katy Perry
-Live Your Life: None
-Bust It Baby (Part 2): None
-American Boy: None
-Got Money: None
+Live Your Life: T.I.
+Bust It Baby (Part 2): Plies
+American Boy: Estelle
+Got Money: Lil Wayne
 Our Song: Taylor Swift
 Damaged: Danity Kane
 A Milli: Lil Wayne
 Sorry: Buckcherry
-Independent: None
-Can't Believe It: None
+Independent: Webbie
+Can't Believe It: T-Pain
 Like You'll Never See Me Again: Alicia Keys
 Teardrops on My Guitar: Taylor Swift
 When I Grow Up: Pussycat Dolls
 Sexual Eruption: Snoop Dogg
-What You Got: None
+What You Got: Colby O'Donis
 It's Not My Time: 3 Doors Down
 Better in Time: Leona Lewis
 Crank That (Soulja Boy): Soulja Boy Tell 'Em
 Shadow of the Day: Linkin Park
-Sweetest Girl (Dollar Bill): None
+Sweetest Girl (Dollar Bill): Wyclef Jean
 Miss Independent: Ne-Yo
 Fall for You: Secondhand Serenade
-In the Ayer: None
+In the Ayer: Flo Rida
 Say: John Mayer
 One Step at a Time: Jordin Sparks
-Hate That I Love You: None
-Superstar: None
+Hate That I Love You: Rihanna
+Superstar: Lupe Fiasco
 Suffocate: J. Holiday
-Let It Rock: None
-Get Like Me: None
+Let It Rock: Kevin Rudolf
+Get Like Me: David Banner
 Realize: Colbie Caillat
-Put On: None
+Put On: Young Jeezy
 The Time of My Life: David Cook
 Lolli Lolli (Pop That Body): Three 6 Mafia
-Cyclone: None
-Love Like This: None
-Burnin' Up: None
+Cyclone: Baby Bash
+Love Like This: Natasha Bedingfield
+Burnin' Up: Jonas Brothers
 Love Lockdown: Kanye West
 I Luv Your Girl: The-Dream
 Crush: David Archuleta
-Hypnotized: None
+Hypnotized: Plies
 Big Girls Don't Cry: Fergie
-Good Life: None
+Good Life: Kanye West
 Womanizer: Britney Spears
 Love Story: Taylor Swift
 Just Fine: Mary J. Blige
 Piece of Me: Britney Spears
-The Boss: None
+The Boss: Rick Ross
 All Summer Long: Kid Rock
 Can't Help but Wait: Trey Songz
 In Love with a Girl: Gavin DeGraw
-My Life: None
+My Life: The Game
 I Remember: Keyshia Cole
-Flashing Lights: None
-Mrs. Officer: None
+Flashing Lights: Kanye West
+Mrs. Officer: Lil Wayne
 7 Things: Miley Cyrus
 You're Gonna Miss This: Trace Adkins
 Love Remains the Same: Gavin Rossdale
 Feels Like Tonight: Daughtry
-The Way I Are: None
+The Way I Are: Timbaland
 Addicted: Saving Abel
-Into the Night: None
+Into the Night: Santana
 Heaven Sent: Keyshia Cole
-She Got It: None
+She Got It: 2 Pistols
 Boom Boom Pow: The Black Eyed Peas
 Poker Face: Lady Gaga
-Just Dance: None
+Just Dance: Lady Gaga
 I Gotta Feeling: The Black Eyed Peas
 Love Story: Taylor Swift
 Right Round: Flo Rida
@@ -4375,15 +4508,15 @@ Single Ladies (Put a Ring on It): Beyoncé
 Heartless: Kanye West
 Gives You Hell: The All-American Rejects
 You Belong with Me: Taylor Swift
-Dead and Gone: None
+Dead and Gone: T.I.
 You Found Me: The Fray
 Use Somebody: Kings of Leon
-Knock You Down: None
-Blame It: None
+Knock You Down: Keri Hilson
+Blame It: Jamie Foxx
 I Know You Want Me (Calle Ocho): Pitbull
-Live Your Life: None
-Kiss Me thru the Phone: None
-Down: None
+Live Your Life: T.I.
+Kiss Me thru the Phone: Soulja Boy Tell 'Em
+Down: Jay Sean
 The Climb: Miley Cyrus
 Best I Ever Had: Drake
 My Life Would Suck Without You: Kelly Clarkson
@@ -4394,8 +4527,8 @@ Circus: Britney Spears
 Day 'n' Nite: Kid Cudi
 Party in the U.S.A.: Miley Cyrus
 Don't Trust Me: 3OH!3
-Run This Town: None
-Let It Rock: None
+Run This Town: Jay-Z
+Let It Rock: Kevin Rudolf
 Fire Burning: Sean Kingston
 Whatcha Say: Jason Derulo
 LoveGame: Lady Gaga
@@ -4406,35 +4539,35 @@ Womanizer: Britney Spears
 Whatever You Like: T.I.
 Obsessed: Mariah Carey
 Mad: Ne-Yo
-Good Girls Go Bad: None
+Good Girls Go Bad: Cobra Starship
 Love Lockdown: Kanye West
 So What: Pink
 Hotel Room Service: Pitbull
-Crack a Bottle: None
+Crack a Bottle: Eminem
 If I Were a Boy: Beyoncé
-Turnin Me On: None
+Turnin Me On: Keri Hilson
 I Hate This Part: Pussycat Dolls
 Gotta Be Somebody: Nickelback
 Please Don't Leave Me: Pink
 Paparazzi: Lady Gaga
-Beautiful: None
+Beautiful: Akon
 Viva la Vida: Coldplay
 Right Now (Na Na Na): Akon
 Battlefield: Jordin Sparks
-Sugar: None
+Sugar: Flo Rida
 Miss Independent: Ne-Yo
 Fireflies: Owl City
 New Divide: Linkin Park
-Empire State of Mind: None
+Empire State of Mind: Jay-Z
 No Surprise: Daughtry
 She Wolf: Shakira
-Break Up: None
+Break Up: Mario
 Sweet Dreams: Beyoncé
 Every Girl: Young Money
 Fallin' for You: Colbie Caillat
 Untouched: The Veronicas
 If Today Was Your Last Day: Nickelback
-Throw It in the Bag: None
+Throw It in the Bag: Fabolous
 Love Drunk: Boys Like Girls
 I Love College: Asher Roth
 If U Seek Amy: Britney Spears
@@ -4449,111 +4582,111 @@ Diva: Beyoncé
 Replay: Iyaz
 Then: Brad Paisley
 Her Diamonds: Rob Thomas
-How Do You Sleep?: None
+How Do You Sleep?: Jesse McCartney
 3: Britney Spears
-Forever: None
+Forever: Drake
 One Time: Justin Bieber
 I Run to You: Lady Antebellum
 I Do Not Hook Up: Kelly Clarkson
-Green Light: None
+Green Light: John Legend
 People Are Crazy: Billy Currington
 Whatever It Is: Zac Brown Band
 Already Gone: Kelly Clarkson
 Goodbye: Kristinia DeBarge
-Say Hey (I Love You): None
-Pop Champagne: None
+Say Hey (I Love You): Michael Franti & Spearhead
+Pop Champagne: Jim Jones
 Pretty Wings: Maxwell
 Never Say Never: The Fray
 Tik Tok: Kesha
 Need You Now: Lady Antebellum
 Hey, Soul Sister: Train
-California Gurls: None
-OMG: None
-Airplanes: None
-Love the Way You Lie: None
+California Gurls: Katy Perry
+OMG: Usher
+Airplanes: B.o.B
+Love the Way You Lie: Eminem
 Bad Romance: Lady Gaga
 Dynamite: Taio Cruz
-Break Your Heart: None
-Nothin' on You: None
-I Like It: None
-BedRock: None
+Break Your Heart: Taio Cruz
+Nothin' on You: B.o.B
+I Like It: Enrique Iglesias
+BedRock: Young Money
 In My Head: Jason Derulo
 Rude Boy: Rihanna
-Telephone: None
+Telephone: Lady Gaga
 Teenage Dream: Katy Perry
 Just the Way You Are: Bruno Mars
 Cooler Than Me: Mike Posner
 Imma Be: The Black Eyed Peas
-Empire State of Mind: None
-DJ Got Us Fallin' in Love: None
-Billionaire: None
+Empire State of Mind: Jay-Z
+DJ Got Us Fallin' in Love: Usher
+Billionaire: Travie McCoy
 Not Afraid: Eminem
 Replay: Iyaz
-Sexy Bitch: None
+Sexy Bitch: David Guetta
 Breakeven: The Script
 Your Love Is My Drug: Kesha
 I Gotta Feeling: The Black Eyed Peas
 Fireflies: Owl City
-Say Aah: None
+Say Aah: Trey Songz
 Find Your Love: Drake
 Alejandro: Lady Gaga
 Ridin' Solo: Jason Derulo
 Just a Dream: Nelly
 How Low: Ludacris
-Like a G6: None
-Carry Out: None
+Like a G6: Far East Movement
+Carry Out: Timbaland
 Haven't Met You Yet: Michael Bublé
-Club Can't Handle Me: None
-Down: None
+Club Can't Handle Me: Flo Rida
+Down: Jay Sean
 Bulletproof: La Roux
 Whatcha Say: Jason Derulo
-Baby: None
+Baby: Justin Bieber
 Whataya Want from Me: Adam Lambert
 Mine: Taylor Swift
 Only Girl (In the World): Rihanna
 Live Like We're Dying: Kris Allen
-Hard: None
-Young Forever: None
-Blah Blah Blah: None
-Bottoms Up: None
-Do You Remember: None
+Hard: Rihanna
+Young Forever: Jay-Z
+Blah Blah Blah: Kesha
+Bottoms Up: Trey Songz
+Do You Remember: Jay Sean
 All the Right Moves: OneRepublic
 According to You: Orianthi
-My Chick Bad: None
+My Chick Bad: Ludacris
 You Belong with Me: Taylor Swift
 Meet Me Halfway: The Black Eyed Peas
 Take It Off: Kesha
 Over: Drake
 Animal: Neon Trees
 Misery: Maroon 5
-Magic: None
+Magic: B.o.B
 Paparazzi: Lady Gaga
-Tie Me Down: None
+Tie Me Down: New Boyz
 Your Love: Nicki Minaj
 Party in the U.S.A.: Miley Cyrus
-Deuces: None
+Deuces: Chris Brown
 3: Britney Spears
 Impossible: Shontelle
-Forever: None
-Two Is Better Than One: None
-My First Kiss: None
+Forever: Drake
+Two Is Better Than One: Boys Like Girls
+My First Kiss: 3OH!3
 Already Gone: Kelly Clarkson
 Rock That Body: The Black Eyed Peas
 Secrets: OneRepublic
 Naturally: Selena Gomez & the Scene
 Un-Thinkable (I'm Ready): Alicia Keys
-All I Do Is Win: None
-I Made It (Cash Money Heroes): None
+All I Do Is Win: DJ Khaled
+I Made It (Cash Money Heroes): Kevin Rudolf
 Stuck Like Glue: Sugarland
-Hey Daddy (Daddy's Home): None
+Hey Daddy (Daddy's Home): Usher
 There Goes My Baby: Usher
 Today Was a Fairytale: Taylor Swift
-Say Something: None
+Say Something: Timbaland
 Sweet Dreams: Beyoncé
 Use Somebody: Kings of Leon
 Undo It: Carrie Underwood
-Eenie Meenie: None
-Right Above It: None
+Eenie Meenie: Sean Kingston
+Right Above It: Lil Wayne
 The House That Built Me: Miranda Lambert
 If I Die Young: The Band Perry
 The Only Exception: Paramore
@@ -4565,27 +4698,27 @@ Teach Me How to Dougie: Cali Swag District
 Try Sleeping with a Broken Heart: Alicia Keys
 Lover, Lover: Jerrod Niemann
 Rolling in the Deep: Adele
-Party Rock Anthem: None
+Party Rock Anthem: LMFAO
 Firework: Katy Perry
-E.T.: None
-Give Me Everything: None
+E.T.: Katy Perry
+Give Me Everything: Pitbull
 Grenade: Bruno Mars
 Fuck You: CeeLo Green
 Super Bass: Nicki Minaj
-Moves like Jagger: None
+Moves like Jagger: Maroon 5
 Just Can't Get Enough: The Black Eyed Peas
-On the Floor: None
+On the Floor: Jennifer Lopez
 S&M: Rihanna
 Pumped Up Kicks: Foster the People
 Last Friday Night (T.G.I.F.): Katy Perry
 Just the Way You Are: Bruno Mars
-Tonight (I'm Lovin' You): None
+Tonight (I'm Lovin' You): Enrique Iglesias
 Raise Your Glass: Pink
 Born This Way: Lady Gaga
 Fuckin' Perfect: Pink
-What's My Name?: None
-Look at Me Now: None
-Down on Me: None
+What's My Name?: Rihanna
+Look at Me Now: Chris Brown
+Down on Me: Jeremih
 How to Love: Lil Wayne
 Someone Like You: Adele
 Good Life: OneRepublic
@@ -4597,90 +4730,90 @@ We R Who We R: Kesha
 Black and Yellow: Wiz Khalifa
 Tonight Tonight: Hot Chelle Rae
 Blow: Kesha
-Lighters: None
+Lighters: Bad Meets Evil
 If I Die Young: The Band Perry
-Stereo Hearts: None
+Stereo Hearts: Gym Class Heroes
 The Time (Dirty Bit): The Black Eyed Peas
-Coming Home: None
-Hey Baby (Drop It to the Floor): None
+Coming Home: Diddy – Dirty Money
+Hey Baby (Drop It to the Floor): Pitbull
 Only Girl (In the World): Rihanna
-6 Foot 7 Foot: None
+6 Foot 7 Foot: Lil Wayne
 Just a Kiss: Lady Antebellum
 Dirt Road Anthem: Jason Aldean
 Dynamite: Taio Cruz
-No Hands: None
+No Hands: Waka Flocka Flame
 I Wanna Go: Britney Spears
-I'm on One: None
-You Make Me Feel...: None
+I'm on One: DJ Khaled
+You Make Me Feel...: Cobra Starship
 Yeah 3x: Chris Brown
-Moment 4 Life: None
-I Need a Doctor: None
+Moment 4 Life: Nicki Minaj
+I Need a Doctor: Dr. Dre
 Just a Dream: Nelly
-Motivation: None
-Stereo Love: None
+Motivation: Kelly Rowland
+Stereo Love: Edward Maya
 Jar of Hearts: Christina Perri
 Roll Up: Wiz Khalifa
 Sexy and I Know It: LMFAO
-Rocketeer: None
-All of the Lights: None
+Rocketeer: Far East Movement
+All of the Lights: Kanye West
 Hold It Against Me: Britney Spears
 More: Usher
 What the Hell: Avril Lavigne
-Written in the Stars: None
-Bottoms Up: None
-DJ Got Us Fallin' in Love: None
+Written in the Stars: Tinie Tempah
+Bottoms Up: Trey Songz
+DJ Got Us Fallin' in Love: Usher
 For the First Time: The Script
 Honey Bee: Blake Shelton
-Don't You Wanna Stay: None
-We Found Love: None
+Don't You Wanna Stay: Jason Aldean
+We Found Love: Rihanna
 Pretty Girl Rock: Keri Hilson
 Yoü and I: Lady Gaga
-Like a G6: None
-Without You: None
+Like a G6: Far East Movement
+Without You: David Guetta
 Back to December: Taylor Swift
 Teenage Dream: Katy Perry
 Crazy Girl: Eli Young Band
 Cheers (Drink to That): Rihanna
 Who Says: Selena Gomez & the Scene
 Barefoot Blue Jean Night: Jake Owen
-Knee Deep: None
+Knee Deep: Zac Brown Band
 Country Girl (Shake It for Me): Luke Bryan
-Remind Me: None
+Remind Me: Brad Paisley
 In the Dark: Dev
-Backseat: None
+Backseat: New Boyz
 Headlines: Drake
 Best Thing I Never Had: Beyoncé
 Don't Wanna Go Home: Jason Derulo
-Where Them Girls At: None
+Where Them Girls At: David Guetta
 She Ain't You: Chris Brown
 Take a Back Road: Rodney Atkins
 Please Don't Go: Mike Posner
 Sure Thing: Miguel
-Price Tag: None
+Price Tag: Jessie J
 God Gave Me You: Blake Shelton
-She Will: None
+She Will: Lil Wayne
 Are You Gonna Kiss Me or Not: Thompson Square
 Animal: Neon Trees
-You and Tequila: None
+You and Tequila: Kenny Chesney
 Colder Weather: Zac Brown Band
-My Last: None
+My Last: Big Sean
 Happy: Pharrell Williams
-Dark Horse: None
+Dark Horse: Katy Perry
 All of Me: John Legend
-Fancy: None
+Fancy: Iggy Azalea
 Counting Stars: OneRepublic
-Talk Dirty: None
+Talk Dirty: Jason Derulo
 Rude: Magic!
 All About That Bass: Meghan Trainor
-Problem: None
+Problem: Ariana Grande
 Stay with Me: Sam Smith
-Timber: None
+Timber: Pitbull
 Pompeii: Bastille
 Shake It Off: Taylor Swift
 Am I Wrong: Nico & Vinz
-Turn Down for What: None
-The Monster: None
-Say Something: None
+Turn Down for What: DJ Snake
+The Monster: Eminem
+Say Something: A Great Big World
 Team: Lorde
 Let Her Go: Passenger
 Royals: Lorde
@@ -4689,84 +4822,84 @@ Wake Me Up: Avicii
 Demons: Imagine Dragons
 Story of My Life: One Direction
 Chandelier: Sia
-Black Widow: None
-Bang Bang: None
-Latch: None
+Black Widow: Iggy Azalea
+Bang Bang: Jessie J
+Latch: Disclosure
 Maps: Maroon 5
-Loyal: None
+Loyal: Chris Brown
 Best Day of My Life: American Authors
 Habits (Stay High): Tove Lo
 Summer: Calvin Harris
 Boom Clap: Charli XCX
-Drunk in Love: None
+Drunk in Love: Beyoncé
 Anaconda: Nicki Minaj
-Break Free: None
-Bailando: None
+Break Free: Ariana Grande
+Bailando: Enrique Iglesias
 Burn: Ellie Goulding
-Wiggle: None
-Rather Be: None
-Don't Tell 'Em: None
-Show Me: None
+Wiggle: Jason Derulo
+Rather Be: Clean Bandit
+Don't Tell 'Em: Jeremih
+Show Me: Kid Ink
 Wrecking Ball: Miley Cyrus
 Not a Bad Thing: Justin Timberlake
 Roar: Katy Perry
 Ain't It Fun: Paramore
 The Man: Aloe Blacc
-This Is How We Roll: None
+This Is How We Roll: Florida Georgia Line
 Classic: MKTO
 A Sky Full of Stars: Coldplay
 Don't: Ed Sheeran
 Na Na: Trey Songz
 Hot Boy: Bobby Shmurda
-Hold On, We're Going Home: None
+Hold On, We're Going Home: Drake
 Sing: Ed Sheeran
 Radioactive: Imagine Dragons
-My Hitta: None
+My Hitta: YG
 Cool Kids: Echosmith
 Hey Brother: Avicii
 Trumpets: Jason Derulo
 Animals: Maroon 5
 Burnin' It Down: Jason Aldean
 Play It Again: Luke Bryan
-2 On: None
+2 On: Tinashe
 Dirt: Florida Georgia Line
 Love Runs Out: OneRepublic
 Bottoms Up: Brantley Gilbert
 Shower: Becky G
 Me and My Broken Heart: Rixton
 Animals: Martin Garrix
-Lifestyle: None
+Lifestyle: Rich Gang
 American Kids: Kenny Chesney
 Brave: Sara Bareilles
 Sweater Weather: The Neighbourhood
 Leave the Night On: Sam Hunt
-New Flame: None
-Love Never Felt So Good: None
+New Flame: Chris Brown
+Love Never Felt So Good: Michael Jackson
 Drunk on a Plane: Dierks Bentley
 Birthday: Katy Perry
 Bartender: Lady Antebellum
-La La La: None
-Blurred Lines: None
-Do What U Want: None
-Can't Remember to Forget You: None
+La La La: Naughty Boy
+Blurred Lines: Robin Thicke
+Do What U Want: Lady Gaga
+Can't Remember to Forget You: Shakira
 Amnesia: 5 Seconds of Summer
-No Mediocre: None
+No Mediocre: T.I.
 Come with Me Now: KONGOS
-Believe Me: None
-23: None
+Believe Me: Lil Wayne
+23: Mike WiLL Made-It
 Beachin': Jake Owen
-White Walls: None
+White Walls: Macklemore & Ryan Lewis
 She Looks So Perfect: 5 Seconds of Summer
-Stay the Night: None
+Stay the Night: Zedd
 Partition: Beyoncé
-Studio: None
+Studio: ScHoolboy Q
 0 to 100 / The Catch Up: Drake
 I Don't Dance: Lee Brice
-Somethin' Bad: None
+Somethin' Bad: Miranda Lambert
 Adore You: Miley Cyrus
-Uptown Funk: None
+Uptown Funk: Mark Ronson
 Thinking Out Loud: Ed Sheeran
-See You Again: None
+See You Again: Wiz Khalifa
 Trap Queen: Fetty Wap
 Sugar: Maroon 5
 Shut Up and Dance: Walk the Moon
@@ -4778,80 +4911,80 @@ Cheerleader: OMI
 Can't Feel My Face: The Weeknd
 Love Me Like You Do: Ellie Goulding
 Take Me to Church: Hozier
-Bad Blood: None
-Lean On: None
+Bad Blood: Taylor Swift
+Lean On: Major Lazer
 Want to Want Me: Jason Derulo
 Shake It Off: Taylor Swift
-Where Are Ü Now: None
+Where Are Ü Now: Skrillex
 Fight Song: Rachel Platten
-679: None
+679: Fetty Wap
 Lips Are Movin: Meghan Trainor
-Worth It: None
-Post to Be: None
+Worth It: Fifth Harmony
+Post to Be: Omarion
 Honey, I'm Good.: Andy Grammer
 I'm Not the Only One: Sam Smith
-Good for You: None
+Good for You: Selena Gomez
 All About That Bass: Meghan Trainor
 Style: Taylor Swift
 Hotline Bling: Drake
-Hey Mama: None
-G.D.F.R.: None
+Hey Mama: David Guetta
+G.D.F.R.: Flo Rida
 What Do You Mean?: Justin Bieber
 Photograph: Ed Sheeran
 Hello: Adele
 Stitches: Shawn Mendes
 Talking Body: Tove Lo
 Jealous: Nick Jonas
-Time of Our Lives: None
-Locked Away: None
-Somebody: None
-FourFiveSeconds: None
+Time of Our Lives: Pitbull
+Locked Away: R. City
+Somebody: Natalie La Rose
+FourFiveSeconds: Rihanna
 Centuries: Fall Out Boy
-My Way: None
+My Way: Fetty Wap
 Take Your Time: Sam Hunt
 Animals: Maroon 5
-I Don't Fuck with You: None
+I Don't Fuck with You: Big Sean
 Bitch Better Have My Money: Rihanna
 Flex (Ooh, Ooh, Ooh): Rich Homie Quan
 Nasty Freestyle: T-Wayne
-Only: None
+Only: Nicki Minaj
 Elastic Heart: Sia
 Cool for the Summer: Demi Lovato
 Renegades: X Ambassadors
-I Don't Mind: None
-Love Me Harder: None
+I Don't Mind: Usher
+Love Me Harder: Ariana Grande
 Wildest Dreams: Taylor Swift
 Stay with Me: Sam Smith
-You Know You Like It: None
+You Know You Like It: DJ Snake
 Uma Thurman: Fall Out Boy
 7/11: Beyoncé
 The Heart Wants What It Wants: Selena Gomez
 Girl Crush: Little Big Town
 Slow Motion: Trey Songz
 Drag Me Down: One Direction
-Truffle Butter: None
+Truffle Butter: Nicki Minaj
 One Last Time: Ariana Grande
 Chains: Nick Jonas
-All Eyes on You: None
+All Eyes on You: Meek Mill
 No Type: Rae Sremmurd
 Riptide: Vance Joy
-Classic Man: None
+Classic Man: Jidenna
 Ex's & Oh's: Elle King
 Dear Future Husband: Meghan Trainor
-Marvin Gaye: None
-Like I'm Gonna Lose You: None
+Marvin Gaye: Charlie Puth
+Like I'm Gonna Lose You: Meghan Trainor
 Habits (Stay High): Tove Lo
-The Hanging Tree: None
+The Hanging Tree: James Newton Howard
 CoCo: O.T. Genasis
-Bang Bang: None
+Bang Bang: Jessie J
 Lay Me Down: Sam Smith
-Tuesday: None
+Tuesday: ILoveMakonnen
 Hit the Quan: iLoveMemphis
-Downtown: None
+Downtown: Macklemore
 House Party: Sam Hunt
-Ayo: None
+Ayo: Chris Brown
 Kick the Dust Up: Luke Bryan
-Blessings: None
+Blessings: Big Sean
 Budapest: George Ezra
 Chandelier: Sia
 Heartbeat Song: Kelly Clarkson
@@ -4859,80 +4992,80 @@ Don't: Ed Sheeran
 Ghost: Ella Henderson
 Here: Alessia Cara
 Waves: Mr Probz
-El Perdón: None
-She Knows: None
+El Perdón: Nicky Jam
+She Knows: Ne-Yo
 Night Changes: One Direction
 Back to Back: Drake
-How Deep Is Your Love: None
+How Deep Is Your Love: Calvin Harris
 Love Yourself: Justin Bieber
 Sorry: Justin Bieber
-One Dance: None
-Work: None
+One Dance: Drake
+Work: Rihanna
 Stressed Out: Twenty One Pilots
 Panda: Desiigner
 Hello: Adele
-Don't Let Me Down: None
+Don't Let Me Down: The Chainsmokers
 Can't Stop the Feeling!: Justin Timberlake
-Closer: None
-Cheap Thrills: None
+Closer: The Chainsmokers
+Cheap Thrills: Sia
 7 Years: Lukas Graham
 Needed Me: Rihanna
 My House: Flo Rida
 I Took a Pill in Ibiza: Mike Posner
-Work from Home: None
-This Is What You Came For: None
+Work from Home: Fifth Harmony
+This Is What You Came For: Calvin Harris
 Cake by the Ocean: DNCE
-Me, Myself & I: None
+Me, Myself & I: G-Eazy
 Ride: Twenty One Pilots
 Heathens: Twenty One Pilots
 Pillowtalk: Zayn
 Stitches: Shawn Mendes
 Hotline Bling: Drake
-Cold Water: None
+Cold Water: Major Lazer
 Send My Love (To Your New Lover): Adele
-Roses: None
+Roses: The Chainsmokers
 Treat You Better: Shawn Mendes
-Too Good: None
-Low Life: None
+Too Good: Drake
+Low Life: Future
 What Do You Mean?: Justin Bieber
 The Hills: The Weeknd
 Just Like Fire: Pink
-Broccoli: None
+Broccoli: DRAM
 Don't: Bryson Tiller
 Dangerous Woman: Ariana Grande
-Jumpman: None
-I Hate U, I Love U: None
+Jumpman: Drake
+I Hate U, I Love U: Gnash
 Here: Alessia Cara
 Same Old Love: Selena Gomez
 Controlla: Drake
-Like I'm Gonna Lose You: None
+Like I'm Gonna Lose You: Meghan Trainor
 One Call Away: Charlie Puth
 Let It Go: James Bay
 No: Meghan Trainor
-Never Forget You: None
-Let Me Love You: None
+Never Forget You: Zara Larsson
+Let Me Love You: DJ Snake
 Don't Mind: Kent Jones
 H.O.L.Y.: Florida Georgia Line
-We Don't Talk Anymore: None
+We Don't Talk Anymore: Charlie Puth
 Into You: Ariana Grande
 Gold: Kiiara
 Exchange: Bryson Tiller
-679: None
+679: Fetty Wap
 Oui: Jeremih
 Hands to Myself: Selena Gomez
 2 Phones: Kevin Gates
-Starboy: None
-For Free: None
-Never Be Like You: None
+Starboy: The Weeknd
+For Free: DJ Khaled
+Never Be Like You: Flume
 In the Night: The Weeknd
 Me Too: Meghan Trainor
 Ex's & Oh's: Elle King
 Die a Happy Man: Thomas Rhett
 White Iverson: Post Malone
-Close: None
+Close: Nick Jonas
 Unsteady: X Ambassadors
-Sucker for Pain: None
-Down in the DM: None
+Sucker for Pain: Lil Wayne
+Down in the DM: Yo Gotti
 Luv: Tory Lanez
 Sorry: Beyoncé
 Can't Feel My Face: The Weeknd
@@ -4940,86 +5073,86 @@ Hymn for the Weekend: Coldplay
 Say It: Tory Lanez
 Antidote: Travis Scott
 Lost Boy: Ruth B
-Side to Side: None
+Side to Side: Ariana Grande
 Sit Still, Look Pretty: Daya
 Wildest Dreams: Taylor Swift
-Middle: None
+Middle: DJ Snake
 On My Mind: Ellie Goulding
-Pop Style: None
+Pop Style: Drake
 When We Were Young: Adele
 Hide Away: Daya
-Lean On: None
-I Know What You Did Last Summer: None
-All the Way Up: None
+Lean On: Major Lazer
+I Know What You Did Last Summer: Shawn Mendes
+All the Way Up: Fat Joe
 Watch Me: Silentó
 Back to Sleep: Chris Brown
-No Limit: None
-Cut It: None
+No Limit: Usher
+Cut It: O.T. Genasis
 Really Really: Kevin Gates
-All In My Head (Flex): None
-Starving: None
+All In My Head (Flex): Fifth Harmony
+Starving: Hailee Steinfeld
 Adventure of a Lifetime: Coldplay
 Humble and Kind: Tim McGraw
 Wicked: Future
 Tiimmy Turner: Desiigner
-See You Again: None
+See You Again: Wiz Khalifa
 Perfect: One Direction
 Shape of You: Ed Sheeran
-Despacito: None
+Despacito: Luis Fonsi
 That's What I Like: Bruno Mars
 Humble: Kendrick Lamar
-Something Just Like This: None
-Bad and Boujee: None
-Closer: None
+Something Just Like This: The Chainsmokers
+Bad and Boujee: Migos
+Closer: The Chainsmokers
 Body Like a Back Road: Sam Hunt
 Believer: Imagine Dragons
-Congratulations: None
+Congratulations: Post Malone
 Say You Won't Let Go: James Arthur
-I'm the One: None
+I'm the One: DJ Khaled
 XO Tour Llif3: Lil Uzi Vert
 Mask Off: Future
-Unforgettable: None
+Unforgettable: French Montana
 24K Magic: Bruno Mars
-Stay: None
-Wild Thoughts: None
-Black Beatles: None
-Starboy: None
+Stay: Zedd
+Wild Thoughts: DJ Khaled
+Black Beatles: Rae Sremmurd
+Starboy: The Weeknd
 Location: Khalid
 Attention: Charlie Puth
 There's Nothing Holdin' Me Back: Shawn Mendes
 Bodak Yellow (Money Moves): Cardi B
 Redbone: Childish Gambino
-I Don't Wanna Live Forever: None
-It Ain't Me: None
-iSpy: None
+I Don't Wanna Live Forever: Zayn
+It Ain't Me: Kygo
+iSpy: Kyle
 Issues: Julia Michaels
 Scars to Your Beautiful: Alessia Cara
-1-800-273-8255: None
+1-800-273-8255: Logic
 Slow Hands: Niall Horan
 Love on the Brain: Rihanna
-I Feel It Coming: None
+I Feel It Coming: The Weeknd
 Bounce Back: Big Sean
-Strip That Down: None
+Strip That Down: Liam Payne
 Fake Love: Drake
-Don't Wanna Know: None
+Don't Wanna Know: Maroon 5
 Look What You Made Me Do: Taylor Swift
 Castle on the Hill: Ed Sheeran
-Bad Things: None
+Bad Things: Machine Gun Kelly
 Paris: The Chainsmokers
-Side to Side: None
-Rockabye: None
+Side to Side: Ariana Grande
+Rockabye: Clean Bandit
 Feel It Still: Portugal. The Man
-Let Me Love You: None
+Let Me Love You: DJ Snake
 Sorry Not Sorry: Demi Lovato
 Bank Account: 21 Savage
 Can't Stop the Feeling!: Justin Timberlake
-Mi Gente: None
+Mi Gente: J Balvin
 Thunder: Imagine Dragons
 T-Shirt: Migos
-Rake It Up: None
+Rake It Up: Yo Gotti
 Mercy: Shawn Mendes
 Tunnel Vision: Kodak Black
-Rockstar: None
+Rockstar: Post Malone
 In Case You Didn't Know: Brett Young
 Heathens: Twenty One Pilots
 Now or Never: Halsey
@@ -5029,38 +5162,38 @@ DNA: Kendrick Lamar
 Juju on That Beat (TZ Anthem): Zay Hilfigerrr & Zayion McCall
 Swang: Rae Sremmurd
 Passionfruit: Drake
-Loyalty: None
+Loyalty: Kendrick Lamar
 Praying: Kesha
-Goosebumps: None
-Cold: None
-Broccoli: None
-Slide: None
-What Ifs: None
-Chained to the Rhythm: None
-Feels: None
+Goosebumps: Travis Scott
+Cold: Maroon 5
+Broccoli: DRAM
+Slide: Calvin Harris
+What Ifs: Kane Brown
+Chained to the Rhythm: Katy Perry
+Feels: Calvin Harris
 All Time Low: Jon Bellion
 Hurricane: Luke Combs
 Too Good at Goodbyes: Sam Smith
 Young Dumb & Broke: Khalid
 Magnolia: Playboi Carti
-Love Galore: None
-Drowning: None
-Starving: None
-Both: None
+Love Galore: SZA
+Drowning: A Boogie wit da Hoodie
+Starving: Hailee Steinfeld
+Both: Gucci Mane
 What About Us: Pink
-Swalla: None
-Slippery: None
+Swalla: Jason Derulo
+Slippery: Migos
 Sign of the Times: Harry Styles
 Water Under the Bridge: Adele
 Malibu: Miley Cyrus
 Down: Marian Hill
-No Promises: None
+No Promises: Cheat Codes
 Treat You Better: Shawn Mendes
-I Get the Bag: None
+I Get the Bag: Gucci Mane
 Small Town Boy: Dustin Lynch
-Everyday We Lit: None
-Havana: None
-What Lovers Do: None
+Everyday We Lit: YFN Lucci
+Havana: Camila Cabello
+What Lovers Do: Maroon 5
 Do Re Mi: Blackbear
 Look at Me!: XXXTentacion
-The Fighter: None
+The Fighter: Keith Urban
